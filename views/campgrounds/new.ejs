@@ -4,7 +4,7 @@
     <h1 class="text-center py-3">New Campground</h1>
   </div>
   <div class="col-6 offset-3">
-    <form action="/campgrounds" method="POST">
+    <form action="/campgrounds" method="POST" novalidate class="validated-form">
       <div class="mb-3">
         <label class="form-label" for="title">Title</label>
         <input
@@ -12,7 +12,9 @@
           type="text"
           id="title"
           name="campground[title]"
+          required
         />
+        <div class="valid-feedback">Looks Good</div>
       </div>
       <div class="mb-3">
         <label class="form-label" for="location">Location</label>
@@ -21,7 +23,9 @@
           type="text"
           id="location"
           name="campground[location]"
+          required
         />
+        <div class="valid-feedback">Looks Good</div>
       </div>
       <div class="mb-3">
         <label class="form-label" for="image">Image</label>
@@ -30,7 +34,9 @@
           type="text"
           id="image"
           name="campground[image]"
+          required
         />
+        <div class="valid-feedback">Looks Good</div>
       </div>
       <div class="mb-3">
         <label class="form-label" for="price">Price</label>
@@ -44,7 +50,9 @@
             placeholder="0.00"
             aria-label="price"
             aria-describedby="price-label"
+            required
           />
+          <div class="valid-feedback">Looks Good</div>
         </div>
       </div>
       <div class="mb-3">
@@ -54,7 +62,9 @@
           type="text"
           id="description"
           name="campground[description]"
+          required
         ></textarea>
+        <div class="valid-feedback">Looks Good</div>
       </div>
       <div class="mb-3">
         <button class="btn btn-success">Add Campground</button>
