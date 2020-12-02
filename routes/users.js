@@ -3,20 +3,21 @@ const router = express.Router();
 const userController = require('../controllers/userController');
 const passport = require('passport');
 
-router.get('/register', userController.renderRegisterForm);
+router
+  .route('/register')
+  .get(userController.renderRegisterForm)
+  .post(userController.register);
 
-router.post('/register', userController.register);
-
-router.get('/login', userController.renderLoginForm);
-
-router.post(
-  '/login',
-  passport.authenticate('local', {
-    failureFlash: true,
-    failureRedirect: '/login',
-  }),
-  userController.login
-);
+router
+  .route('/login')
+  .get(userController.renderLoginForm)
+  .post(
+    passport.authenticate('local', {
+      failureFlash: true,
+      failureRedirect: '/login',
+    }),
+    userController.login
+  );
 
 router.get('/logout', userController.logout);
 
