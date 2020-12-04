@@ -6,7 +6,7 @@ module.exports = [
     longitude: -74.0059413,
     population: '8405837',
     rank: '1',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Los Angeles',
@@ -15,7 +15,7 @@ module.exports = [
     longitude: -118.2436849,
     population: '3884307',
     rank: '2',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Chicago',
@@ -24,7 +24,7 @@ module.exports = [
     longitude: -87.6297982,
     population: '2718782',
     rank: '3',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Houston',
@@ -33,7 +33,7 @@ module.exports = [
     longitude: -95.3698028,
     population: '2195914',
     rank: '4',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Philadelphia',
@@ -42,7 +42,7 @@ module.exports = [
     longitude: -75.1652215,
     population: '1553165',
     rank: '5',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Phoenix',
@@ -51,7 +51,7 @@ module.exports = [
     longitude: -112.0740373,
     population: '1513367',
     rank: '6',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'San Antonio',
@@ -60,7 +60,7 @@ module.exports = [
     longitude: -98.49362819999999,
     population: '1409019',
     rank: '7',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'San Diego',
@@ -69,7 +69,7 @@ module.exports = [
     longitude: -117.1610838,
     population: '1355896',
     rank: '8',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Dallas',
@@ -78,7 +78,7 @@ module.exports = [
     longitude: -96.79698789999999,
     population: '1257676',
     rank: '9',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'San Jose',
@@ -87,7 +87,7 @@ module.exports = [
     longitude: -121.8863286,
     population: '998537',
     rank: '10',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Austin',
@@ -96,7 +96,7 @@ module.exports = [
     longitude: -97.7430608,
     population: '885400',
     rank: '11',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Indianapolis',
@@ -105,7 +105,7 @@ module.exports = [
     longitude: -86.158068,
     population: '843393',
     rank: '12',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Jacksonville',
@@ -114,7 +114,7 @@ module.exports = [
     longitude: -81.65565099999999,
     population: '842583',
     rank: '13',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'San Francisco',
@@ -123,7 +123,7 @@ module.exports = [
     longitude: -122.4194155,
     population: '837442',
     rank: '14',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Columbus',
@@ -132,7 +132,7 @@ module.exports = [
     longitude: -82.99879419999999,
     population: '822553',
     rank: '15',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Charlotte',
@@ -141,7 +141,7 @@ module.exports = [
     longitude: -80.8431267,
     population: '792862',
     rank: '16',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Fort Worth',
@@ -150,7 +150,7 @@ module.exports = [
     longitude: -97.3307658,
     population: '792727',
     rank: '17',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Detroit',
@@ -159,7 +159,7 @@ module.exports = [
     longitude: -83.0457538,
     population: '688701',
     rank: '18',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'El Paso',
@@ -168,7 +168,7 @@ module.exports = [
     longitude: -106.4424559,
     population: '674433',
     rank: '19',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Memphis',
@@ -177,7 +177,7 @@ module.exports = [
     longitude: -90.0489801,
     population: '653450',
     rank: '20',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Seattle',
@@ -186,7 +186,7 @@ module.exports = [
     longitude: -122.3320708,
     population: '652405',
     rank: '21',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Denver',
@@ -195,7 +195,7 @@ module.exports = [
     longitude: -104.990251,
     population: '649495',
     rank: '22',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Washington',
@@ -204,7 +204,7 @@ module.exports = [
     longitude: -77.0368707,
     population: '646449',
     rank: '23',
-    state: 'District of Columbia',
+    state: 'District of Columbia'
   },
   {
     city: 'Boston',
@@ -213,7 +213,7 @@ module.exports = [
     longitude: -71.0588801,
     population: '645966',
     rank: '24',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Nashville-Davidson',
@@ -222,7 +222,7 @@ module.exports = [
     longitude: -86.7816016,
     population: '634464',
     rank: '25',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Baltimore',
@@ -231,7 +231,7 @@ module.exports = [
     longitude: -76.6121893,
     population: '622104',
     rank: '26',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Oklahoma City',
@@ -240,7 +240,7 @@ module.exports = [
     longitude: -97.5164276,
     population: '610613',
     rank: '27',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Louisville/Jefferson County',
@@ -249,7 +249,7 @@ module.exports = [
     longitude: -85.7584557,
     population: '609893',
     rank: '28',
-    state: 'Kentucky',
+    state: 'Kentucky'
   },
   {
     city: 'Portland',
@@ -258,7 +258,7 @@ module.exports = [
     longitude: -122.6764816,
     population: '609456',
     rank: '29',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Las Vegas',
@@ -267,7 +267,7 @@ module.exports = [
     longitude: -115.1398296,
     population: '603488',
     rank: '30',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'Milwaukee',
@@ -276,7 +276,7 @@ module.exports = [
     longitude: -87.9064736,
     population: '599164',
     rank: '31',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Albuquerque',
@@ -285,7 +285,7 @@ module.exports = [
     longitude: -106.6055534,
     population: '556495',
     rank: '32',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'Tucson',
@@ -294,7 +294,7 @@ module.exports = [
     longitude: -110.926479,
     population: '526116',
     rank: '33',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Fresno',
@@ -303,7 +303,7 @@ module.exports = [
     longitude: -119.7725868,
     population: '509924',
     rank: '34',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Sacramento',
@@ -312,7 +312,7 @@ module.exports = [
     longitude: -121.4943996,
     population: '479686',
     rank: '35',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Long Beach',
@@ -321,7 +321,7 @@ module.exports = [
     longitude: -118.1937395,
     population: '469428',
     rank: '36',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Kansas City',
@@ -330,7 +330,7 @@ module.exports = [
     longitude: -94.5785667,
     population: '467007',
     rank: '37',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Mesa',
@@ -339,7 +339,7 @@ module.exports = [
     longitude: -111.8314724,
     population: '457587',
     rank: '38',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Virginia Beach',
@@ -348,7 +348,7 @@ module.exports = [
     longitude: -75.97798499999999,
     population: '448479',
     rank: '39',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Atlanta',
@@ -357,7 +357,7 @@ module.exports = [
     longitude: -84.3879824,
     population: '447841',
     rank: '40',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Colorado Springs',
@@ -366,7 +366,7 @@ module.exports = [
     longitude: -104.8213634,
     population: '439886',
     rank: '41',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Omaha',
@@ -375,7 +375,7 @@ module.exports = [
     longitude: -95.99798829999999,
     population: '434353',
     rank: '42',
-    state: 'Nebraska',
+    state: 'Nebraska'
   },
   {
     city: 'Raleigh',
@@ -384,7 +384,7 @@ module.exports = [
     longitude: -78.6381787,
     population: '431746',
     rank: '43',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Miami',
@@ -393,7 +393,7 @@ module.exports = [
     longitude: -80.1917902,
     population: '417650',
     rank: '44',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Oakland',
@@ -402,7 +402,7 @@ module.exports = [
     longitude: -122.2711137,
     population: '406253',
     rank: '45',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Minneapolis',
@@ -411,7 +411,7 @@ module.exports = [
     longitude: -93.2650108,
     population: '400070',
     rank: '46',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Tulsa',
@@ -420,7 +420,7 @@ module.exports = [
     longitude: -95.99277500000001,
     population: '398121',
     rank: '47',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Cleveland',
@@ -429,7 +429,7 @@ module.exports = [
     longitude: -81.6943605,
     population: '390113',
     rank: '48',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Wichita',
@@ -438,7 +438,7 @@ module.exports = [
     longitude: -97.336111,
     population: '386552',
     rank: '49',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Arlington',
@@ -447,7 +447,7 @@ module.exports = [
     longitude: -97.10806559999999,
     population: '379577',
     rank: '50',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'New Orleans',
@@ -456,7 +456,7 @@ module.exports = [
     longitude: -90.0715323,
     population: '378715',
     rank: '51',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Bakersfield',
@@ -465,7 +465,7 @@ module.exports = [
     longitude: -119.0187125,
     population: '363630',
     rank: '52',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Tampa',
@@ -474,7 +474,7 @@ module.exports = [
     longitude: -82.4571776,
     population: '352957',
     rank: '53',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Honolulu',
@@ -483,7 +483,7 @@ module.exports = [
     longitude: -157.8583333,
     population: '347884',
     rank: '54',
-    state: 'Hawaii',
+    state: 'Hawaii'
   },
   {
     city: 'Aurora',
@@ -492,7 +492,7 @@ module.exports = [
     longitude: -104.8319195,
     population: '345803',
     rank: '55',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Anaheim',
@@ -501,7 +501,7 @@ module.exports = [
     longitude: -117.9145036,
     population: '345012',
     rank: '56',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Santa Ana',
@@ -510,7 +510,7 @@ module.exports = [
     longitude: -117.8678338,
     population: '334227',
     rank: '57',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'St. Louis',
@@ -519,7 +519,7 @@ module.exports = [
     longitude: -90.19940419999999,
     population: '318416',
     rank: '58',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Riverside',
@@ -528,7 +528,7 @@ module.exports = [
     longitude: -117.3961564,
     population: '316619',
     rank: '59',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Corpus Christi',
@@ -537,7 +537,7 @@ module.exports = [
     longitude: -97.39638099999999,
     population: '316381',
     rank: '60',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Lexington-Fayette',
@@ -546,7 +546,7 @@ module.exports = [
     longitude: -84.5037164,
     population: '308428',
     rank: '61',
-    state: 'Kentucky',
+    state: 'Kentucky'
   },
   {
     city: 'Pittsburgh',
@@ -555,7 +555,7 @@ module.exports = [
     longitude: -79.9958864,
     population: '305841',
     rank: '62',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Anchorage',
@@ -564,7 +564,7 @@ module.exports = [
     longitude: -149.9002778,
     population: '300950',
     rank: '63',
-    state: 'Alaska',
+    state: 'Alaska'
   },
   {
     city: 'Stockton',
@@ -573,7 +573,7 @@ module.exports = [
     longitude: -121.2907796,
     population: '298118',
     rank: '64',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cincinnati',
@@ -582,7 +582,7 @@ module.exports = [
     longitude: -84.5120196,
     population: '297517',
     rank: '65',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'St. Paul',
@@ -591,7 +591,7 @@ module.exports = [
     longitude: -93.0899578,
     population: '294873',
     rank: '66',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Toledo',
@@ -600,7 +600,7 @@ module.exports = [
     longitude: -83.55521200000001,
     population: '282313',
     rank: '67',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Greensboro',
@@ -609,7 +609,7 @@ module.exports = [
     longitude: -79.7919754,
     population: '279639',
     rank: '68',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Newark',
@@ -618,7 +618,7 @@ module.exports = [
     longitude: -74.1723667,
     population: '278427',
     rank: '69',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Plano',
@@ -627,7 +627,7 @@ module.exports = [
     longitude: -96.6988856,
     population: '274409',
     rank: '70',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Henderson',
@@ -636,7 +636,7 @@ module.exports = [
     longitude: -114.9817213,
     population: '270811',
     rank: '71',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'Lincoln',
@@ -645,7 +645,7 @@ module.exports = [
     longitude: -96.6851982,
     population: '268738',
     rank: '72',
-    state: 'Nebraska',
+    state: 'Nebraska'
   },
   {
     city: 'Buffalo',
@@ -654,7 +654,7 @@ module.exports = [
     longitude: -78.8783689,
     population: '258959',
     rank: '73',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Jersey City',
@@ -663,7 +663,7 @@ module.exports = [
     longitude: -74.0776417,
     population: '257342',
     rank: '74',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Chula Vista',
@@ -672,7 +672,7 @@ module.exports = [
     longitude: -117.0841955,
     population: '256780',
     rank: '75',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Fort Wayne',
@@ -681,7 +681,7 @@ module.exports = [
     longitude: -85.1393513,
     population: '256496',
     rank: '76',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Orlando',
@@ -690,7 +690,7 @@ module.exports = [
     longitude: -81.3792365,
     population: '255483',
     rank: '77',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'St. Petersburg',
@@ -699,7 +699,7 @@ module.exports = [
     longitude: -82.64,
     population: '249688',
     rank: '78',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Chandler',
@@ -708,7 +708,7 @@ module.exports = [
     longitude: -111.8412502,
     population: '249146',
     rank: '79',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Laredo',
@@ -717,7 +717,7 @@ module.exports = [
     longitude: -99.48032409999999,
     population: '248142',
     rank: '80',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Norfolk',
@@ -726,7 +726,7 @@ module.exports = [
     longitude: -76.28587259999999,
     population: '246139',
     rank: '81',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Durham',
@@ -735,7 +735,7 @@ module.exports = [
     longitude: -78.898619,
     population: '245475',
     rank: '82',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Madison',
@@ -744,7 +744,7 @@ module.exports = [
     longitude: -89.4012302,
     population: '243344',
     rank: '83',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Lubbock',
@@ -753,7 +753,7 @@ module.exports = [
     longitude: -101.8551665,
     population: '239538',
     rank: '84',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Irvine',
@@ -762,7 +762,7 @@ module.exports = [
     longitude: -117.7946942,
     population: '236716',
     rank: '85',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Winston-Salem',
@@ -771,7 +771,7 @@ module.exports = [
     longitude: -80.244216,
     population: '236441',
     rank: '86',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Glendale',
@@ -780,7 +780,7 @@ module.exports = [
     longitude: -112.1859866,
     population: '234632',
     rank: '87',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Garland',
@@ -789,7 +789,7 @@ module.exports = [
     longitude: -96.63888329999999,
     population: '234566',
     rank: '88',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Hialeah',
@@ -798,7 +798,7 @@ module.exports = [
     longitude: -80.2781057,
     population: '233394',
     rank: '89',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Reno',
@@ -807,7 +807,7 @@ module.exports = [
     longitude: -119.8138027,
     population: '233294',
     rank: '90',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'Chesapeake',
@@ -816,7 +816,7 @@ module.exports = [
     longitude: -76.2874927,
     population: '230571',
     rank: '91',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Gilbert',
@@ -825,7 +825,7 @@ module.exports = [
     longitude: -111.789027,
     population: '229972',
     rank: '92',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Baton Rouge',
@@ -834,7 +834,7 @@ module.exports = [
     longitude: -91.1403196,
     population: '229426',
     rank: '93',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Irving',
@@ -843,7 +843,7 @@ module.exports = [
     longitude: -96.9488945,
     population: '228653',
     rank: '94',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Scottsdale',
@@ -852,7 +852,7 @@ module.exports = [
     longitude: -111.9260519,
     population: '226918',
     rank: '95',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'North Las Vegas',
@@ -861,7 +861,7 @@ module.exports = [
     longitude: -115.1175013,
     population: '226877',
     rank: '96',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'Fremont',
@@ -870,7 +870,7 @@ module.exports = [
     longitude: -121.9885719,
     population: '224922',
     rank: '97',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Boise City',
@@ -879,7 +879,7 @@ module.exports = [
     longitude: -116.2146068,
     population: '214237',
     rank: '98',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Richmond',
@@ -888,7 +888,7 @@ module.exports = [
     longitude: -77.4360481,
     population: '214114',
     rank: '99',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'San Bernardino',
@@ -897,7 +897,7 @@ module.exports = [
     longitude: -117.2897652,
     population: '213708',
     rank: '100',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Birmingham',
@@ -906,7 +906,7 @@ module.exports = [
     longitude: -86.80248999999999,
     population: '212113',
     rank: '101',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Spokane',
@@ -915,7 +915,7 @@ module.exports = [
     longitude: -117.4260466,
     population: '210721',
     rank: '102',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Rochester',
@@ -924,7 +924,7 @@ module.exports = [
     longitude: -77.6109219,
     population: '210358',
     rank: '103',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Des Moines',
@@ -933,7 +933,7 @@ module.exports = [
     longitude: -93.6091064,
     population: '207510',
     rank: '104',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Modesto',
@@ -942,7 +942,7 @@ module.exports = [
     longitude: -120.9968782,
     population: '204933',
     rank: '105',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Fayetteville',
@@ -951,7 +951,7 @@ module.exports = [
     longitude: -78.87835849999999,
     population: '204408',
     rank: '106',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Tacoma',
@@ -960,7 +960,7 @@ module.exports = [
     longitude: -122.4442906,
     population: '203446',
     rank: '107',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Oxnard',
@@ -969,7 +969,7 @@ module.exports = [
     longitude: -119.1770516,
     population: '203007',
     rank: '108',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Fontana',
@@ -978,7 +978,7 @@ module.exports = [
     longitude: -117.435048,
     population: '203003',
     rank: '109',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Columbus',
@@ -987,7 +987,7 @@ module.exports = [
     longitude: -84.9877094,
     population: '202824',
     rank: '110',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Montgomery',
@@ -996,7 +996,7 @@ module.exports = [
     longitude: -86.2999689,
     population: '201332',
     rank: '111',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Moreno Valley',
@@ -1005,7 +1005,7 @@ module.exports = [
     longitude: -117.2296717,
     population: '201175',
     rank: '112',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Shreveport',
@@ -1014,7 +1014,7 @@ module.exports = [
     longitude: -93.7501789,
     population: '200327',
     rank: '113',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Aurora',
@@ -1023,7 +1023,7 @@ module.exports = [
     longitude: -88.32007150000001,
     population: '199963',
     rank: '114',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Yonkers',
@@ -1032,7 +1032,7 @@ module.exports = [
     longitude: -73.89874689999999,
     population: '199766',
     rank: '115',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Akron',
@@ -1041,7 +1041,7 @@ module.exports = [
     longitude: -81.51900529999999,
     population: '198100',
     rank: '116',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Huntington Beach',
@@ -1050,7 +1050,7 @@ module.exports = [
     longitude: -117.9992265,
     population: '197575',
     rank: '117',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Little Rock',
@@ -1059,7 +1059,7 @@ module.exports = [
     longitude: -92.28959479999999,
     population: '197357',
     rank: '118',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Augusta-Richmond County',
@@ -1068,7 +1068,7 @@ module.exports = [
     longitude: -82.0105148,
     population: '197350',
     rank: '119',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Amarillo',
@@ -1077,7 +1077,7 @@ module.exports = [
     longitude: -101.8312969,
     population: '196429',
     rank: '120',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Glendale',
@@ -1086,7 +1086,7 @@ module.exports = [
     longitude: -118.255075,
     population: '196021',
     rank: '121',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Mobile',
@@ -1095,7 +1095,7 @@ module.exports = [
     longitude: -88.0398912,
     population: '194899',
     rank: '122',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Grand Rapids',
@@ -1104,7 +1104,7 @@ module.exports = [
     longitude: -85.6680863,
     population: '192294',
     rank: '123',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Salt Lake City',
@@ -1113,7 +1113,7 @@ module.exports = [
     longitude: -111.8910474,
     population: '191180',
     rank: '124',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Tallahassee',
@@ -1122,7 +1122,7 @@ module.exports = [
     longitude: -84.28073289999999,
     population: '186411',
     rank: '125',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Huntsville',
@@ -1131,7 +1131,7 @@ module.exports = [
     longitude: -86.5861037,
     population: '186254',
     rank: '126',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Grand Prairie',
@@ -1140,7 +1140,7 @@ module.exports = [
     longitude: -96.99778459999999,
     population: '183372',
     rank: '127',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Knoxville',
@@ -1149,7 +1149,7 @@ module.exports = [
     longitude: -83.9207392,
     population: '183270',
     rank: '128',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Worcester',
@@ -1158,7 +1158,7 @@ module.exports = [
     longitude: -71.8022934,
     population: '182544',
     rank: '129',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Newport News',
@@ -1167,7 +1167,7 @@ module.exports = [
     longitude: -76.4730122,
     population: '182020',
     rank: '130',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Brownsville',
@@ -1176,7 +1176,7 @@ module.exports = [
     longitude: -97.4974838,
     population: '181860',
     rank: '131',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Overland Park',
@@ -1185,7 +1185,7 @@ module.exports = [
     longitude: -94.6707917,
     population: '181260',
     rank: '132',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Santa Clarita',
@@ -1194,7 +1194,7 @@ module.exports = [
     longitude: -118.542586,
     population: '179590',
     rank: '133',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Providence',
@@ -1203,7 +1203,7 @@ module.exports = [
     longitude: -71.4128343,
     population: '177994',
     rank: '134',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Garden Grove',
@@ -1212,7 +1212,7 @@ module.exports = [
     longitude: -117.9414477,
     population: '175140',
     rank: '135',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Chattanooga',
@@ -1221,7 +1221,7 @@ module.exports = [
     longitude: -85.3096801,
     population: '173366',
     rank: '136',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Oceanside',
@@ -1230,7 +1230,7 @@ module.exports = [
     longitude: -117.3794834,
     population: '172794',
     rank: '137',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Jackson',
@@ -1239,7 +1239,7 @@ module.exports = [
     longitude: -90.1848103,
     population: '172638',
     rank: '138',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Fort Lauderdale',
@@ -1248,7 +1248,7 @@ module.exports = [
     longitude: -80.13731740000001,
     population: '172389',
     rank: '139',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Santa Rosa',
@@ -1257,7 +1257,7 @@ module.exports = [
     longitude: -122.7140548,
     population: '171990',
     rank: '140',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Rancho Cucamonga',
@@ -1266,7 +1266,7 @@ module.exports = [
     longitude: -117.5931084,
     population: '171386',
     rank: '141',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Port St. Lucie',
@@ -1275,7 +1275,7 @@ module.exports = [
     longitude: -80.3582261,
     population: '171016',
     rank: '142',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Tempe',
@@ -1284,7 +1284,7 @@ module.exports = [
     longitude: -111.9400054,
     population: '168228',
     rank: '143',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Ontario',
@@ -1293,7 +1293,7 @@ module.exports = [
     longitude: -117.6508876,
     population: '167500',
     rank: '144',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Vancouver',
@@ -1302,7 +1302,7 @@ module.exports = [
     longitude: -122.6614861,
     population: '167405',
     rank: '145',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Cape Coral',
@@ -1311,7 +1311,7 @@ module.exports = [
     longitude: -81.9495331,
     population: '165831',
     rank: '146',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Sioux Falls',
@@ -1320,7 +1320,7 @@ module.exports = [
     longitude: -96.73110340000001,
     population: '164676',
     rank: '147',
-    state: 'South Dakota',
+    state: 'South Dakota'
   },
   {
     city: 'Springfield',
@@ -1329,7 +1329,7 @@ module.exports = [
     longitude: -93.29229889999999,
     population: '164122',
     rank: '148',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Peoria',
@@ -1338,7 +1338,7 @@ module.exports = [
     longitude: -112.2373779,
     population: '162592',
     rank: '149',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Pembroke Pines',
@@ -1347,7 +1347,7 @@ module.exports = [
     longitude: -80.2962555,
     population: '162329',
     rank: '150',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Elk Grove',
@@ -1356,7 +1356,7 @@ module.exports = [
     longitude: -121.3716178,
     population: '161007',
     rank: '151',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Salem',
@@ -1365,7 +1365,7 @@ module.exports = [
     longitude: -123.0350963,
     population: '160614',
     rank: '152',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Lancaster',
@@ -1374,7 +1374,7 @@ module.exports = [
     longitude: -118.1541632,
     population: '159523',
     rank: '153',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Corona',
@@ -1383,7 +1383,7 @@ module.exports = [
     longitude: -117.5664384,
     population: '159503',
     rank: '154',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Eugene',
@@ -1392,7 +1392,7 @@ module.exports = [
     longitude: -123.0867536,
     population: '159190',
     rank: '155',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Palmdale',
@@ -1401,7 +1401,7 @@ module.exports = [
     longitude: -118.1164613,
     population: '157161',
     rank: '156',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Salinas',
@@ -1410,7 +1410,7 @@ module.exports = [
     longitude: -121.6555013,
     population: '155662',
     rank: '157',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Springfield',
@@ -1419,7 +1419,7 @@ module.exports = [
     longitude: -72.589811,
     population: '153703',
     rank: '158',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Pasadena',
@@ -1428,7 +1428,7 @@ module.exports = [
     longitude: -95.2091006,
     population: '152735',
     rank: '159',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Fort Collins',
@@ -1437,7 +1437,7 @@ module.exports = [
     longitude: -105.084423,
     population: '152061',
     rank: '160',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Hayward',
@@ -1446,7 +1446,7 @@ module.exports = [
     longitude: -122.0807964,
     population: '151574',
     rank: '161',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pomona',
@@ -1455,7 +1455,7 @@ module.exports = [
     longitude: -117.7499909,
     population: '151348',
     rank: '162',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cary',
@@ -1464,7 +1464,7 @@ module.exports = [
     longitude: -78.7811169,
     population: '151088',
     rank: '163',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Rockford',
@@ -1473,7 +1473,7 @@ module.exports = [
     longitude: -89.0939952,
     population: '150251',
     rank: '164',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Alexandria',
@@ -1482,7 +1482,7 @@ module.exports = [
     longitude: -77.0469214,
     population: '148892',
     rank: '165',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Escondido',
@@ -1491,7 +1491,7 @@ module.exports = [
     longitude: -117.086421,
     population: '148738',
     rank: '166',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'McKinney',
@@ -1500,7 +1500,7 @@ module.exports = [
     longitude: -96.6397822,
     population: '148559',
     rank: '167',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Kansas City',
@@ -1509,7 +1509,7 @@ module.exports = [
     longitude: -94.6274636,
     population: '148483',
     rank: '168',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Joliet',
@@ -1518,7 +1518,7 @@ module.exports = [
     longitude: -88.0817251,
     population: '147806',
     rank: '169',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Sunnyvale',
@@ -1527,7 +1527,7 @@ module.exports = [
     longitude: -122.0363496,
     population: '147559',
     rank: '170',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Torrance',
@@ -1536,7 +1536,7 @@ module.exports = [
     longitude: -118.3406288,
     population: '147478',
     rank: '171',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Bridgeport',
@@ -1545,7 +1545,7 @@ module.exports = [
     longitude: -73.19517669999999,
     population: '147216',
     rank: '172',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Lakewood',
@@ -1554,7 +1554,7 @@ module.exports = [
     longitude: -105.0813734,
     population: '147214',
     rank: '173',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Hollywood',
@@ -1563,7 +1563,7 @@ module.exports = [
     longitude: -80.1494901,
     population: '146526',
     rank: '174',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Paterson',
@@ -1572,7 +1572,7 @@ module.exports = [
     longitude: -74.17181099999999,
     population: '145948',
     rank: '175',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Naperville',
@@ -1581,7 +1581,7 @@ module.exports = [
     longitude: -88.1535352,
     population: '144864',
     rank: '176',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Syracuse',
@@ -1590,7 +1590,7 @@ module.exports = [
     longitude: -76.14742439999999,
     population: '144669',
     rank: '177',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Mesquite',
@@ -1599,7 +1599,7 @@ module.exports = [
     longitude: -96.5991593,
     population: '143484',
     rank: '178',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Dayton',
@@ -1608,7 +1608,7 @@ module.exports = [
     longitude: -84.1916069,
     population: '143355',
     rank: '179',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Savannah',
@@ -1617,7 +1617,7 @@ module.exports = [
     longitude: -81.09983419999999,
     population: '142772',
     rank: '180',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Clarksville',
@@ -1626,7 +1626,7 @@ module.exports = [
     longitude: -87.3594528,
     population: '142357',
     rank: '181',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Orange',
@@ -1635,7 +1635,7 @@ module.exports = [
     longitude: -117.8531119,
     population: '139969',
     rank: '182',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pasadena',
@@ -1644,7 +1644,7 @@ module.exports = [
     longitude: -118.1445155,
     population: '139731',
     rank: '183',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Fullerton',
@@ -1653,7 +1653,7 @@ module.exports = [
     longitude: -117.9242966,
     population: '138981',
     rank: '184',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Killeen',
@@ -1662,7 +1662,7 @@ module.exports = [
     longitude: -97.72779589999999,
     population: '137147',
     rank: '185',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Frisco',
@@ -1671,7 +1671,7 @@ module.exports = [
     longitude: -96.82361159999999,
     population: '136791',
     rank: '186',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Hampton',
@@ -1680,7 +1680,7 @@ module.exports = [
     longitude: -76.34522179999999,
     population: '136699',
     rank: '187',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'McAllen',
@@ -1689,7 +1689,7 @@ module.exports = [
     longitude: -98.23001239999999,
     population: '136639',
     rank: '188',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Warren',
@@ -1698,7 +1698,7 @@ module.exports = [
     longitude: -83.01465259999999,
     population: '134873',
     rank: '189',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Bellevue',
@@ -1707,7 +1707,7 @@ module.exports = [
     longitude: -122.2006786,
     population: '133992',
     rank: '190',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'West Valley City',
@@ -1716,7 +1716,7 @@ module.exports = [
     longitude: -112.0010501,
     population: '133579',
     rank: '191',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Columbia',
@@ -1725,7 +1725,7 @@ module.exports = [
     longitude: -81.0348144,
     population: '133358',
     rank: '192',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Olathe',
@@ -1734,7 +1734,7 @@ module.exports = [
     longitude: -94.81912849999999,
     population: '131885',
     rank: '193',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Sterling Heights',
@@ -1743,7 +1743,7 @@ module.exports = [
     longitude: -83.0302033,
     population: '131224',
     rank: '194',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'New Haven',
@@ -1752,7 +1752,7 @@ module.exports = [
     longitude: -72.9278835,
     population: '130660',
     rank: '195',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Miramar',
@@ -1761,7 +1761,7 @@ module.exports = [
     longitude: -80.30356019999999,
     population: '130288',
     rank: '196',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Waco',
@@ -1770,7 +1770,7 @@ module.exports = [
     longitude: -97.1466695,
     population: '129030',
     rank: '197',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Thousand Oaks',
@@ -1779,7 +1779,7 @@ module.exports = [
     longitude: -118.8375937,
     population: '128731',
     rank: '198',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cedar Rapids',
@@ -1788,7 +1788,7 @@ module.exports = [
     longitude: -91.6656232,
     population: '128429',
     rank: '199',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Charleston',
@@ -1797,7 +1797,7 @@ module.exports = [
     longitude: -79.93105120000001,
     population: '127999',
     rank: '200',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Visalia',
@@ -1806,7 +1806,7 @@ module.exports = [
     longitude: -119.2920585,
     population: '127763',
     rank: '201',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Topeka',
@@ -1815,7 +1815,7 @@ module.exports = [
     longitude: -95.68901849999999,
     population: '127679',
     rank: '202',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Elizabeth',
@@ -1824,7 +1824,7 @@ module.exports = [
     longitude: -74.2107006,
     population: '127558',
     rank: '203',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Gainesville',
@@ -1833,7 +1833,7 @@ module.exports = [
     longitude: -82.32482619999999,
     population: '127488',
     rank: '204',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Thornton',
@@ -1842,7 +1842,7 @@ module.exports = [
     longitude: -104.9719243,
     population: '127359',
     rank: '205',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Roseville',
@@ -1851,7 +1851,7 @@ module.exports = [
     longitude: -121.2880059,
     population: '127035',
     rank: '206',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Carrollton',
@@ -1860,7 +1860,7 @@ module.exports = [
     longitude: -96.8899636,
     population: '126700',
     rank: '207',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Coral Springs',
@@ -1869,7 +1869,7 @@ module.exports = [
     longitude: -80.2706044,
     population: '126604',
     rank: '208',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Stamford',
@@ -1878,7 +1878,7 @@ module.exports = [
     longitude: -73.5387341,
     population: '126456',
     rank: '209',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Simi Valley',
@@ -1887,7 +1887,7 @@ module.exports = [
     longitude: -118.781482,
     population: '126181',
     rank: '210',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Concord',
@@ -1896,7 +1896,7 @@ module.exports = [
     longitude: -122.0310733,
     population: '125880',
     rank: '211',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Hartford',
@@ -1905,7 +1905,7 @@ module.exports = [
     longitude: -72.6850932,
     population: '125017',
     rank: '212',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Kent',
@@ -1914,7 +1914,7 @@ module.exports = [
     longitude: -122.2348431,
     population: '124435',
     rank: '213',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Lafayette',
@@ -1923,7 +1923,7 @@ module.exports = [
     longitude: -92.0198427,
     population: '124276',
     rank: '214',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Midland',
@@ -1932,7 +1932,7 @@ module.exports = [
     longitude: -102.0779146,
     population: '123933',
     rank: '215',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Surprise',
@@ -1941,7 +1941,7 @@ module.exports = [
     longitude: -112.3679279,
     population: '123546',
     rank: '216',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Denton',
@@ -1950,7 +1950,7 @@ module.exports = [
     longitude: -97.13306829999999,
     population: '123099',
     rank: '217',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Victorville',
@@ -1959,7 +1959,7 @@ module.exports = [
     longitude: -117.2927641,
     population: '121096',
     rank: '218',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Evansville',
@@ -1968,7 +1968,7 @@ module.exports = [
     longitude: -87.5710898,
     population: '120310',
     rank: '219',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Santa Clara',
@@ -1977,7 +1977,7 @@ module.exports = [
     longitude: -121.9552356,
     population: '120245',
     rank: '220',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Abilene',
@@ -1986,7 +1986,7 @@ module.exports = [
     longitude: -99.73314390000002,
     population: '120099',
     rank: '221',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Athens-Clarke County',
@@ -1995,7 +1995,7 @@ module.exports = [
     longitude: -83.357567,
     population: '119980',
     rank: '222',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Vallejo',
@@ -2004,7 +2004,7 @@ module.exports = [
     longitude: -122.2566367,
     population: '118837',
     rank: '223',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Allentown',
@@ -2013,7 +2013,7 @@ module.exports = [
     longitude: -75.4901833,
     population: '118577',
     rank: '224',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Norman',
@@ -2022,7 +2022,7 @@ module.exports = [
     longitude: -97.4394777,
     population: '118197',
     rank: '225',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Beaumont',
@@ -2031,7 +2031,7 @@ module.exports = [
     longitude: -94.1265562,
     population: '117796',
     rank: '226',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Independence',
@@ -2040,7 +2040,7 @@ module.exports = [
     longitude: -94.41550679999999,
     population: '117240',
     rank: '227',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Murfreesboro',
@@ -2049,7 +2049,7 @@ module.exports = [
     longitude: -86.39027,
     population: '117044',
     rank: '228',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Ann Arbor',
@@ -2058,7 +2058,7 @@ module.exports = [
     longitude: -83.7430378,
     population: '117025',
     rank: '229',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Springfield',
@@ -2067,7 +2067,7 @@ module.exports = [
     longitude: -89.6501481,
     population: '117006',
     rank: '230',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Berkeley',
@@ -2076,7 +2076,7 @@ module.exports = [
     longitude: -122.272747,
     population: '116768',
     rank: '231',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Peoria',
@@ -2085,7 +2085,7 @@ module.exports = [
     longitude: -89.5889864,
     population: '116513',
     rank: '232',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Provo',
@@ -2094,7 +2094,7 @@ module.exports = [
     longitude: -111.6585337,
     population: '116288',
     rank: '233',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'El Monte',
@@ -2103,7 +2103,7 @@ module.exports = [
     longitude: -118.0275667,
     population: '115708',
     rank: '234',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Columbia',
@@ -2112,7 +2112,7 @@ module.exports = [
     longitude: -92.3340724,
     population: '115276',
     rank: '235',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Lansing',
@@ -2121,7 +2121,7 @@ module.exports = [
     longitude: -84.5555347,
     population: '113972',
     rank: '236',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Fargo',
@@ -2130,7 +2130,7 @@ module.exports = [
     longitude: -96.7898034,
     population: '113658',
     rank: '237',
-    state: 'North Dakota',
+    state: 'North Dakota'
   },
   {
     city: 'Downey',
@@ -2139,7 +2139,7 @@ module.exports = [
     longitude: -118.1331593,
     population: '113242',
     rank: '238',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Costa Mesa',
@@ -2148,7 +2148,7 @@ module.exports = [
     longitude: -117.9186689,
     population: '112174',
     rank: '239',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Wilmington',
@@ -2157,7 +2157,7 @@ module.exports = [
     longitude: -77.9447102,
     population: '112067',
     rank: '240',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Arvada',
@@ -2166,7 +2166,7 @@ module.exports = [
     longitude: -105.0874842,
     population: '111707',
     rank: '241',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Inglewood',
@@ -2175,7 +2175,7 @@ module.exports = [
     longitude: -118.3531311,
     population: '111542',
     rank: '242',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Miami Gardens',
@@ -2184,7 +2184,7 @@ module.exports = [
     longitude: -80.2456045,
     population: '111378',
     rank: '243',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Carlsbad',
@@ -2193,7 +2193,7 @@ module.exports = [
     longitude: -117.3505939,
     population: '110972',
     rank: '244',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Westminster',
@@ -2202,7 +2202,7 @@ module.exports = [
     longitude: -105.0372046,
     population: '110945',
     rank: '245',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Rochester',
@@ -2211,7 +2211,7 @@ module.exports = [
     longitude: -92.4801989,
     population: '110742',
     rank: '246',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Odessa',
@@ -2220,7 +2220,7 @@ module.exports = [
     longitude: -102.3676431,
     population: '110720',
     rank: '247',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Manchester',
@@ -2229,7 +2229,7 @@ module.exports = [
     longitude: -71.4547891,
     population: '110378',
     rank: '248',
-    state: 'New Hampshire',
+    state: 'New Hampshire'
   },
   {
     city: 'Elgin',
@@ -2238,7 +2238,7 @@ module.exports = [
     longitude: -88.2825668,
     population: '110145',
     rank: '249',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'West Jordan',
@@ -2247,7 +2247,7 @@ module.exports = [
     longitude: -111.9391031,
     population: '110077',
     rank: '250',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Round Rock',
@@ -2256,7 +2256,7 @@ module.exports = [
     longitude: -97.678896,
     population: '109821',
     rank: '251',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Clearwater',
@@ -2265,7 +2265,7 @@ module.exports = [
     longitude: -82.8001026,
     population: '109703',
     rank: '252',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Waterbury',
@@ -2274,7 +2274,7 @@ module.exports = [
     longitude: -73.0514965,
     population: '109676',
     rank: '253',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Gresham',
@@ -2283,7 +2283,7 @@ module.exports = [
     longitude: -122.4302013,
     population: '109397',
     rank: '254',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Fairfield',
@@ -2292,7 +2292,7 @@ module.exports = [
     longitude: -122.0399663,
     population: '109320',
     rank: '255',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Billings',
@@ -2301,7 +2301,7 @@ module.exports = [
     longitude: -108.5006904,
     population: '109059',
     rank: '256',
-    state: 'Montana',
+    state: 'Montana'
   },
   {
     city: 'Lowell',
@@ -2310,7 +2310,7 @@ module.exports = [
     longitude: -71.31617179999999,
     population: '108861',
     rank: '257',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'San Buenaventura (Ventura)',
@@ -2319,7 +2319,7 @@ module.exports = [
     longitude: -119.2290316,
     population: '108817',
     rank: '258',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pueblo',
@@ -2328,7 +2328,7 @@ module.exports = [
     longitude: -104.6091409,
     population: '108249',
     rank: '259',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'High Point',
@@ -2337,7 +2337,7 @@ module.exports = [
     longitude: -80.0053176,
     population: '107741',
     rank: '260',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'West Covina',
@@ -2346,7 +2346,7 @@ module.exports = [
     longitude: -117.9389526,
     population: '107740',
     rank: '261',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Richmond',
@@ -2355,7 +2355,7 @@ module.exports = [
     longitude: -122.3477486,
     population: '107571',
     rank: '262',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Murrieta',
@@ -2364,7 +2364,7 @@ module.exports = [
     longitude: -117.2139232,
     population: '107479',
     rank: '263',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cambridge',
@@ -2373,7 +2373,7 @@ module.exports = [
     longitude: -71.10973349999999,
     population: '107289',
     rank: '264',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Antioch',
@@ -2382,7 +2382,7 @@ module.exports = [
     longitude: -121.805789,
     population: '107100',
     rank: '265',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Temecula',
@@ -2391,7 +2391,7 @@ module.exports = [
     longitude: -117.1483648,
     population: '106780',
     rank: '266',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Norwalk',
@@ -2400,7 +2400,7 @@ module.exports = [
     longitude: -118.081733,
     population: '106589',
     rank: '267',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Centennial',
@@ -2409,7 +2409,7 @@ module.exports = [
     longitude: -104.8771726,
     population: '106114',
     rank: '268',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Everett',
@@ -2418,7 +2418,7 @@ module.exports = [
     longitude: -122.2020794,
     population: '105370',
     rank: '269',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Palm Bay',
@@ -2427,7 +2427,7 @@ module.exports = [
     longitude: -80.5886646,
     population: '104898',
     rank: '270',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Wichita Falls',
@@ -2436,7 +2436,7 @@ module.exports = [
     longitude: -98.4933873,
     population: '104898',
     rank: '271',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Green Bay',
@@ -2445,7 +2445,7 @@ module.exports = [
     longitude: -88.019826,
     population: '104779',
     rank: '272',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Daly City',
@@ -2454,7 +2454,7 @@ module.exports = [
     longitude: -122.4702079,
     population: '104739',
     rank: '273',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Burbank',
@@ -2463,7 +2463,7 @@ module.exports = [
     longitude: -118.3089661,
     population: '104709',
     rank: '274',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Richardson',
@@ -2472,7 +2472,7 @@ module.exports = [
     longitude: -96.7298519,
     population: '104475',
     rank: '275',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Pompano Beach',
@@ -2481,7 +2481,7 @@ module.exports = [
     longitude: -80.1247667,
     population: '104410',
     rank: '276',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'North Charleston',
@@ -2490,7 +2490,7 @@ module.exports = [
     longitude: -79.9748103,
     population: '104054',
     rank: '277',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Broken Arrow',
@@ -2499,7 +2499,7 @@ module.exports = [
     longitude: -95.7974526,
     population: '103500',
     rank: '278',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Boulder',
@@ -2508,7 +2508,7 @@ module.exports = [
     longitude: -105.2705456,
     population: '103166',
     rank: '279',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'West Palm Beach',
@@ -2517,7 +2517,7 @@ module.exports = [
     longitude: -80.0533746,
     population: '102436',
     rank: '280',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Santa Maria',
@@ -2526,7 +2526,7 @@ module.exports = [
     longitude: -120.4357191,
     population: '102216',
     rank: '281',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'El Cajon',
@@ -2535,7 +2535,7 @@ module.exports = [
     longitude: -116.9625269,
     population: '102211',
     rank: '282',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Davenport',
@@ -2544,7 +2544,7 @@ module.exports = [
     longitude: -90.5776367,
     population: '102157',
     rank: '283',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Rialto',
@@ -2553,7 +2553,7 @@ module.exports = [
     longitude: -117.3703235,
     population: '101910',
     rank: '284',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Las Cruces',
@@ -2562,7 +2562,7 @@ module.exports = [
     longitude: -106.7636538,
     population: '101324',
     rank: '285',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'San Mateo',
@@ -2571,7 +2571,7 @@ module.exports = [
     longitude: -122.3255254,
     population: '101128',
     rank: '286',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Lewisville',
@@ -2580,7 +2580,7 @@ module.exports = [
     longitude: -96.994174,
     population: '101074',
     rank: '287',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'South Bend',
@@ -2589,7 +2589,7 @@ module.exports = [
     longitude: -86.25198979999999,
     population: '100886',
     rank: '288',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Lakeland',
@@ -2598,7 +2598,7 @@ module.exports = [
     longitude: -81.9498042,
     population: '100710',
     rank: '289',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Erie',
@@ -2607,7 +2607,7 @@ module.exports = [
     longitude: -80.085059,
     population: '100671',
     rank: '290',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Tyler',
@@ -2616,7 +2616,7 @@ module.exports = [
     longitude: -95.30106239999999,
     population: '100223',
     rank: '291',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Pearland',
@@ -2625,7 +2625,7 @@ module.exports = [
     longitude: -95.2860474,
     population: '100065',
     rank: '292',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'College Station',
@@ -2634,7 +2634,7 @@ module.exports = [
     longitude: -96.3344068,
     population: '100050',
     rank: '293',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Kenosha',
@@ -2643,7 +2643,7 @@ module.exports = [
     longitude: -87.82118539999999,
     population: '99889',
     rank: '294',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Sandy Springs',
@@ -2652,7 +2652,7 @@ module.exports = [
     longitude: -84.3733147,
     population: '99770',
     rank: '295',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Clovis',
@@ -2661,7 +2661,7 @@ module.exports = [
     longitude: -119.7029194,
     population: '99769',
     rank: '296',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Flint',
@@ -2670,7 +2670,7 @@ module.exports = [
     longitude: -83.6874562,
     population: '99763',
     rank: '297',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Roanoke',
@@ -2679,7 +2679,7 @@ module.exports = [
     longitude: -79.9414266,
     population: '98465',
     rank: '298',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Albany',
@@ -2688,7 +2688,7 @@ module.exports = [
     longitude: -73.7562317,
     population: '98424',
     rank: '299',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Jurupa Valley',
@@ -2697,7 +2697,7 @@ module.exports = [
     longitude: -117.4854802,
     population: '98030',
     rank: '300',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Compton',
@@ -2706,7 +2706,7 @@ module.exports = [
     longitude: -118.2200712,
     population: '97877',
     rank: '301',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'San Angelo',
@@ -2715,7 +2715,7 @@ module.exports = [
     longitude: -100.4370375,
     population: '97492',
     rank: '302',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Hillsboro',
@@ -2724,7 +2724,7 @@ module.exports = [
     longitude: -122.989827,
     population: '97368',
     rank: '303',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Lawton',
@@ -2733,7 +2733,7 @@ module.exports = [
     longitude: -98.39592909999999,
     population: '97151',
     rank: '304',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Renton',
@@ -2742,7 +2742,7 @@ module.exports = [
     longitude: -122.2170661,
     population: '97003',
     rank: '305',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Vista',
@@ -2751,7 +2751,7 @@ module.exports = [
     longitude: -117.2425355,
     population: '96929',
     rank: '306',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Davie',
@@ -2760,7 +2760,7 @@ module.exports = [
     longitude: -80.25211569999999,
     population: '96830',
     rank: '307',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Greeley',
@@ -2769,7 +2769,7 @@ module.exports = [
     longitude: -104.7091322,
     population: '96539',
     rank: '308',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Mission Viejo',
@@ -2778,7 +2778,7 @@ module.exports = [
     longitude: -117.6719953,
     population: '96346',
     rank: '309',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Portsmouth',
@@ -2787,7 +2787,7 @@ module.exports = [
     longitude: -76.2982742,
     population: '96205',
     rank: '310',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Dearborn',
@@ -2796,7 +2796,7 @@ module.exports = [
     longitude: -83.17631449999999,
     population: '95884',
     rank: '311',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'South Gate',
@@ -2805,7 +2805,7 @@ module.exports = [
     longitude: -118.2120161,
     population: '95677',
     rank: '312',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Tuscaloosa',
@@ -2814,7 +2814,7 @@ module.exports = [
     longitude: -87.56917349999999,
     population: '95334',
     rank: '313',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Livonia',
@@ -2823,7 +2823,7 @@ module.exports = [
     longitude: -83.35270969999999,
     population: '95208',
     rank: '314',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'New Bedford',
@@ -2832,7 +2832,7 @@ module.exports = [
     longitude: -70.93420499999999,
     population: '95078',
     rank: '315',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Vacaville',
@@ -2841,7 +2841,7 @@ module.exports = [
     longitude: -121.9877444,
     population: '94275',
     rank: '316',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Brockton',
@@ -2850,7 +2850,7 @@ module.exports = [
     longitude: -71.0183787,
     population: '94089',
     rank: '317',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Roswell',
@@ -2859,7 +2859,7 @@ module.exports = [
     longitude: -84.3615555,
     population: '94034',
     rank: '318',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Beaverton',
@@ -2868,7 +2868,7 @@ module.exports = [
     longitude: -122.8037102,
     population: '93542',
     rank: '319',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Quincy',
@@ -2877,7 +2877,7 @@ module.exports = [
     longitude: -71.0022705,
     population: '93494',
     rank: '320',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Sparks',
@@ -2886,7 +2886,7 @@ module.exports = [
     longitude: -119.7526886,
     population: '93282',
     rank: '321',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'Yakima',
@@ -2895,7 +2895,7 @@ module.exports = [
     longitude: -120.5058987,
     population: '93257',
     rank: '322',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: "Lee's Summit",
@@ -2904,7 +2904,7 @@ module.exports = [
     longitude: -94.3821724,
     population: '93184',
     rank: '323',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Federal Way',
@@ -2913,7 +2913,7 @@ module.exports = [
     longitude: -122.3126222,
     population: '92734',
     rank: '324',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Carson',
@@ -2922,7 +2922,7 @@ module.exports = [
     longitude: -118.281693,
     population: '92599',
     rank: '325',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Santa Monica',
@@ -2931,7 +2931,7 @@ module.exports = [
     longitude: -118.4911912,
     population: '92472',
     rank: '326',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Hesperia',
@@ -2940,7 +2940,7 @@ module.exports = [
     longitude: -117.3008784,
     population: '92147',
     rank: '327',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Allen',
@@ -2949,7 +2949,7 @@ module.exports = [
     longitude: -96.67055030000002,
     population: '92020',
     rank: '328',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Rio Rancho',
@@ -2958,7 +2958,7 @@ module.exports = [
     longitude: -106.6630437,
     population: '91956',
     rank: '329',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'Yuma',
@@ -2967,7 +2967,7 @@ module.exports = [
     longitude: -114.6276916,
     population: '91923',
     rank: '330',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Westminster',
@@ -2976,7 +2976,7 @@ module.exports = [
     longitude: -117.9939921,
     population: '91739',
     rank: '331',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Orem',
@@ -2985,7 +2985,7 @@ module.exports = [
     longitude: -111.6946475,
     population: '91648',
     rank: '332',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Lynn',
@@ -2994,7 +2994,7 @@ module.exports = [
     longitude: -70.9494938,
     population: '91589',
     rank: '333',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Redding',
@@ -3003,7 +3003,7 @@ module.exports = [
     longitude: -122.3916754,
     population: '91119',
     rank: '334',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Spokane Valley',
@@ -3012,7 +3012,7 @@ module.exports = [
     longitude: -117.2393748,
     population: '91113',
     rank: '335',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Miami Beach',
@@ -3021,7 +3021,7 @@ module.exports = [
     longitude: -80.1300455,
     population: '91026',
     rank: '336',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'League City',
@@ -3030,7 +3030,7 @@ module.exports = [
     longitude: -95.0949303,
     population: '90983',
     rank: '337',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Lawrence',
@@ -3039,7 +3039,7 @@ module.exports = [
     longitude: -95.2352501,
     population: '90811',
     rank: '338',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Santa Barbara',
@@ -3048,7 +3048,7 @@ module.exports = [
     longitude: -119.6981901,
     population: '90412',
     rank: '339',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Plantation',
@@ -3057,7 +3057,7 @@ module.exports = [
     longitude: -80.23310359999999,
     population: '90268',
     rank: '340',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Sandy',
@@ -3066,7 +3066,7 @@ module.exports = [
     longitude: -111.8389726,
     population: '90231',
     rank: '341',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Sunrise',
@@ -3075,7 +3075,7 @@ module.exports = [
     longitude: -80.25659499999999,
     population: '90116',
     rank: '342',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Macon',
@@ -3084,7 +3084,7 @@ module.exports = [
     longitude: -83.6324022,
     population: '89981',
     rank: '343',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Longmont',
@@ -3093,7 +3093,7 @@ module.exports = [
     longitude: -105.1019275,
     population: '89919',
     rank: '344',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Boca Raton',
@@ -3102,7 +3102,7 @@ module.exports = [
     longitude: -80.1289321,
     population: '89407',
     rank: '345',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'San Marcos',
@@ -3111,7 +3111,7 @@ module.exports = [
     longitude: -117.1661449,
     population: '89387',
     rank: '346',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Greenville',
@@ -3120,7 +3120,7 @@ module.exports = [
     longitude: -77.3663538,
     population: '89130',
     rank: '347',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Waukegan',
@@ -3129,7 +3129,7 @@ module.exports = [
     longitude: -87.84479379999999,
     population: '88826',
     rank: '348',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Fall River',
@@ -3138,7 +3138,7 @@ module.exports = [
     longitude: -71.1550451,
     population: '88697',
     rank: '349',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Chico',
@@ -3147,7 +3147,7 @@ module.exports = [
     longitude: -121.8374777,
     population: '88077',
     rank: '350',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Newton',
@@ -3156,7 +3156,7 @@ module.exports = [
     longitude: -71.20922139999999,
     population: '87971',
     rank: '351',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'San Leandro',
@@ -3165,7 +3165,7 @@ module.exports = [
     longitude: -122.1560768,
     population: '87965',
     rank: '352',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Reading',
@@ -3174,7 +3174,7 @@ module.exports = [
     longitude: -75.9268747,
     population: '87893',
     rank: '353',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Norwalk',
@@ -3183,7 +3183,7 @@ module.exports = [
     longitude: -73.4081575,
     population: '87776',
     rank: '354',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Fort Smith',
@@ -3192,7 +3192,7 @@ module.exports = [
     longitude: -94.39854749999999,
     population: '87650',
     rank: '355',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Newport Beach',
@@ -3201,7 +3201,7 @@ module.exports = [
     longitude: -117.9289469,
     population: '87273',
     rank: '356',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Asheville',
@@ -3210,7 +3210,7 @@ module.exports = [
     longitude: -82.5514869,
     population: '87236',
     rank: '357',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Nashua',
@@ -3219,7 +3219,7 @@ module.exports = [
     longitude: -71.46756599999999,
     population: '87137',
     rank: '358',
-    state: 'New Hampshire',
+    state: 'New Hampshire'
   },
   {
     city: 'Edmond',
@@ -3228,7 +3228,7 @@ module.exports = [
     longitude: -97.47809540000002,
     population: '87004',
     rank: '359',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Whittier',
@@ -3237,7 +3237,7 @@ module.exports = [
     longitude: -118.032844,
     population: '86635',
     rank: '360',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Nampa',
@@ -3246,7 +3246,7 @@ module.exports = [
     longitude: -116.5634624,
     population: '86518',
     rank: '361',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Bloomington',
@@ -3255,7 +3255,7 @@ module.exports = [
     longitude: -93.2982799,
     population: '86319',
     rank: '362',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Deltona',
@@ -3264,7 +3264,7 @@ module.exports = [
     longitude: -81.26367379999999,
     population: '86290',
     rank: '363',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Hawthorne',
@@ -3273,7 +3273,7 @@ module.exports = [
     longitude: -118.3525748,
     population: '86199',
     rank: '364',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Duluth',
@@ -3282,7 +3282,7 @@ module.exports = [
     longitude: -92.1004852,
     population: '86128',
     rank: '365',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Carmel',
@@ -3291,7 +3291,7 @@ module.exports = [
     longitude: -86.1180435,
     population: '85927',
     rank: '366',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Suffolk',
@@ -3300,7 +3300,7 @@ module.exports = [
     longitude: -76.5835621,
     population: '85728',
     rank: '367',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Clifton',
@@ -3309,7 +3309,7 @@ module.exports = [
     longitude: -74.16375529999999,
     population: '85390',
     rank: '368',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Citrus Heights',
@@ -3318,7 +3318,7 @@ module.exports = [
     longitude: -121.2810611,
     population: '85285',
     rank: '369',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Livermore',
@@ -3327,7 +3327,7 @@ module.exports = [
     longitude: -121.7680088,
     population: '85156',
     rank: '370',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Tracy',
@@ -3336,7 +3336,7 @@ module.exports = [
     longitude: -121.4252227,
     population: '84691',
     rank: '371',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Alhambra',
@@ -3345,7 +3345,7 @@ module.exports = [
     longitude: -118.1270146,
     population: '84577',
     rank: '372',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Kirkland',
@@ -3354,7 +3354,7 @@ module.exports = [
     longitude: -122.2087353,
     population: '84430',
     rank: '373',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Trenton',
@@ -3363,7 +3363,7 @@ module.exports = [
     longitude: -74.7429384,
     population: '84349',
     rank: '374',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Ogden',
@@ -3372,7 +3372,7 @@ module.exports = [
     longitude: -111.9738304,
     population: '84249',
     rank: '375',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Hoover',
@@ -3381,7 +3381,7 @@ module.exports = [
     longitude: -86.8113781,
     population: '84126',
     rank: '376',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Cicero',
@@ -3390,7 +3390,7 @@ module.exports = [
     longitude: -87.7539448,
     population: '84103',
     rank: '377',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Fishers',
@@ -3399,7 +3399,7 @@ module.exports = [
     longitude: -86.01335,
     population: '83891',
     rank: '378',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Sugar Land',
@@ -3408,7 +3408,7 @@ module.exports = [
     longitude: -95.6349463,
     population: '83860',
     rank: '379',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Danbury',
@@ -3417,7 +3417,7 @@ module.exports = [
     longitude: -73.4540111,
     population: '83684',
     rank: '380',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Meridian',
@@ -3426,7 +3426,7 @@ module.exports = [
     longitude: -116.3915131,
     population: '83596',
     rank: '381',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Indio',
@@ -3435,7 +3435,7 @@ module.exports = [
     longitude: -116.2155619,
     population: '83539',
     rank: '382',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Concord',
@@ -3444,7 +3444,7 @@ module.exports = [
     longitude: -80.579511,
     population: '83506',
     rank: '383',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Menifee',
@@ -3453,7 +3453,7 @@ module.exports = [
     longitude: -117.185294,
     population: '83447',
     rank: '384',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Champaign',
@@ -3462,7 +3462,7 @@ module.exports = [
     longitude: -88.2433829,
     population: '83424',
     rank: '385',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Buena Park',
@@ -3471,7 +3471,7 @@ module.exports = [
     longitude: -117.9981181,
     population: '82882',
     rank: '386',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Troy',
@@ -3480,7 +3480,7 @@ module.exports = [
     longitude: -83.1497751,
     population: '82821',
     rank: '387',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: "O'Fallon",
@@ -3489,7 +3489,7 @@ module.exports = [
     longitude: -90.69984769999999,
     population: '82809',
     rank: '388',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Johns Creek',
@@ -3498,7 +3498,7 @@ module.exports = [
     longitude: -84.198579,
     population: '82788',
     rank: '389',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Bellingham',
@@ -3507,7 +3507,7 @@ module.exports = [
     longitude: -122.4781473,
     population: '82631',
     rank: '390',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Westland',
@@ -3516,7 +3516,7 @@ module.exports = [
     longitude: -83.400211,
     population: '82578',
     rank: '391',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Bloomington',
@@ -3525,7 +3525,7 @@ module.exports = [
     longitude: -86.52638569999999,
     population: '82575',
     rank: '392',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Sioux City',
@@ -3534,7 +3534,7 @@ module.exports = [
     longitude: -96.40030689999999,
     population: '82459',
     rank: '393',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Warwick',
@@ -3543,7 +3543,7 @@ module.exports = [
     longitude: -71.4161671,
     population: '81971',
     rank: '394',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Hemet',
@@ -3552,7 +3552,7 @@ module.exports = [
     longitude: -116.9719684,
     population: '81750',
     rank: '395',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Longview',
@@ -3561,7 +3561,7 @@ module.exports = [
     longitude: -94.74048909999999,
     population: '81443',
     rank: '396',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Farmington Hills',
@@ -3570,7 +3570,7 @@ module.exports = [
     longitude: -83.3677168,
     population: '81295',
     rank: '397',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Bend',
@@ -3579,7 +3579,7 @@ module.exports = [
     longitude: -121.3153096,
     population: '81236',
     rank: '398',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Lakewood',
@@ -3588,7 +3588,7 @@ module.exports = [
     longitude: -118.1339563,
     population: '81121',
     rank: '399',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Merced',
@@ -3597,7 +3597,7 @@ module.exports = [
     longitude: -120.4829677,
     population: '81102',
     rank: '400',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Mission',
@@ -3606,7 +3606,7 @@ module.exports = [
     longitude: -98.32529319999999,
     population: '81050',
     rank: '401',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Chino',
@@ -3615,7 +3615,7 @@ module.exports = [
     longitude: -117.688944,
     population: '80988',
     rank: '402',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Redwood City',
@@ -3624,7 +3624,7 @@ module.exports = [
     longitude: -122.2363548,
     population: '80872',
     rank: '403',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Edinburg',
@@ -3633,7 +3633,7 @@ module.exports = [
     longitude: -98.1633432,
     population: '80836',
     rank: '404',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Cranston',
@@ -3642,7 +3642,7 @@ module.exports = [
     longitude: -71.4372796,
     population: '80566',
     rank: '405',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Parma',
@@ -3651,7 +3651,7 @@ module.exports = [
     longitude: -81.7229086,
     population: '80429',
     rank: '406',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'New Rochelle',
@@ -3660,7 +3660,7 @@ module.exports = [
     longitude: -73.7823549,
     population: '79446',
     rank: '407',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Lake Forest',
@@ -3669,7 +3669,7 @@ module.exports = [
     longitude: -117.689218,
     population: '79312',
     rank: '408',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Napa',
@@ -3678,7 +3678,7 @@ module.exports = [
     longitude: -122.286865,
     population: '79068',
     rank: '409',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Hammond',
@@ -3687,7 +3687,7 @@ module.exports = [
     longitude: -87.5000412,
     population: '78967',
     rank: '410',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Fayetteville',
@@ -3696,7 +3696,7 @@ module.exports = [
     longitude: -94.1574263,
     population: '78960',
     rank: '411',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Bloomington',
@@ -3705,7 +3705,7 @@ module.exports = [
     longitude: -88.99368729999999,
     population: '78902',
     rank: '412',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Avondale',
@@ -3714,7 +3714,7 @@ module.exports = [
     longitude: -112.3496021,
     population: '78822',
     rank: '413',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Somerville',
@@ -3723,7 +3723,7 @@ module.exports = [
     longitude: -71.0994968,
     population: '78804',
     rank: '414',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Palm Coast',
@@ -3732,7 +3732,7 @@ module.exports = [
     longitude: -81.20786989999999,
     population: '78740',
     rank: '415',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Bryan',
@@ -3741,7 +3741,7 @@ module.exports = [
     longitude: -96.3699632,
     population: '78709',
     rank: '416',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Gary',
@@ -3750,7 +3750,7 @@ module.exports = [
     longitude: -87.3464271,
     population: '78450',
     rank: '417',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Largo',
@@ -3759,7 +3759,7 @@ module.exports = [
     longitude: -82.7873244,
     population: '78409',
     rank: '418',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Brooklyn Park',
@@ -3768,7 +3768,7 @@ module.exports = [
     longitude: -93.3563405,
     population: '78373',
     rank: '419',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Tustin',
@@ -3777,7 +3777,7 @@ module.exports = [
     longitude: -117.826166,
     population: '78327',
     rank: '420',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Racine',
@@ -3786,7 +3786,7 @@ module.exports = [
     longitude: -87.78285230000002,
     population: '78199',
     rank: '421',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Deerfield Beach',
@@ -3795,7 +3795,7 @@ module.exports = [
     longitude: -80.09976569999999,
     population: '78041',
     rank: '422',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Lynchburg',
@@ -3804,7 +3804,7 @@ module.exports = [
     longitude: -79.14224639999999,
     population: '78014',
     rank: '423',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Mountain View',
@@ -3813,7 +3813,7 @@ module.exports = [
     longitude: -122.0838511,
     population: '77846',
     rank: '424',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Medford',
@@ -3822,7 +3822,7 @@ module.exports = [
     longitude: -122.8755949,
     population: '77677',
     rank: '425',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Lawrence',
@@ -3831,7 +3831,7 @@ module.exports = [
     longitude: -71.1631137,
     population: '77657',
     rank: '426',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Bellflower',
@@ -3840,7 +3840,7 @@ module.exports = [
     longitude: -118.1170117,
     population: '77593',
     rank: '427',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Melbourne',
@@ -3849,7 +3849,7 @@ module.exports = [
     longitude: -80.60810889999999,
     population: '77508',
     rank: '428',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'St. Joseph',
@@ -3858,7 +3858,7 @@ module.exports = [
     longitude: -94.84668099999999,
     population: '77147',
     rank: '429',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Camden',
@@ -3867,7 +3867,7 @@ module.exports = [
     longitude: -75.1196199,
     population: '76903',
     rank: '430',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'St. George',
@@ -3876,7 +3876,7 @@ module.exports = [
     longitude: -113.5684164,
     population: '76817',
     rank: '431',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Kennewick',
@@ -3885,7 +3885,7 @@ module.exports = [
     longitude: -119.1372338,
     population: '76762',
     rank: '432',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Baldwin Park',
@@ -3894,7 +3894,7 @@ module.exports = [
     longitude: -117.9608978,
     population: '76635',
     rank: '433',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Chino Hills',
@@ -3903,7 +3903,7 @@ module.exports = [
     longitude: -117.7325848,
     population: '76572',
     rank: '434',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Alameda',
@@ -3912,7 +3912,7 @@ module.exports = [
     longitude: -122.2416355,
     population: '76419',
     rank: '435',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Albany',
@@ -3921,7 +3921,7 @@ module.exports = [
     longitude: -84.15574099999999,
     population: '76185',
     rank: '436',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Arlington Heights',
@@ -3930,7 +3930,7 @@ module.exports = [
     longitude: -87.98062650000001,
     population: '75994',
     rank: '437',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Scranton',
@@ -3939,7 +3939,7 @@ module.exports = [
     longitude: -75.66241219999999,
     population: '75806',
     rank: '438',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Evanston',
@@ -3948,7 +3948,7 @@ module.exports = [
     longitude: -87.68769689999999,
     population: '75570',
     rank: '439',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Kalamazoo',
@@ -3957,7 +3957,7 @@ module.exports = [
     longitude: -85.5872286,
     population: '75548',
     rank: '440',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Baytown',
@@ -3966,7 +3966,7 @@ module.exports = [
     longitude: -94.97742740000001,
     population: '75418',
     rank: '441',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Upland',
@@ -3975,7 +3975,7 @@ module.exports = [
     longitude: -117.6483876,
     population: '75413',
     rank: '442',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Springdale',
@@ -3984,7 +3984,7 @@ module.exports = [
     longitude: -94.1288141,
     population: '75229',
     rank: '443',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Bethlehem',
@@ -3993,7 +3993,7 @@ module.exports = [
     longitude: -75.37045789999999,
     population: '75018',
     rank: '444',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Schaumburg',
@@ -4002,7 +4002,7 @@ module.exports = [
     longitude: -88.0834059,
     population: '74907',
     rank: '445',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Mount Pleasant',
@@ -4011,7 +4011,7 @@ module.exports = [
     longitude: -79.82842579999999,
     population: '74885',
     rank: '446',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Auburn',
@@ -4020,7 +4020,7 @@ module.exports = [
     longitude: -122.2284532,
     population: '74860',
     rank: '447',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Decatur',
@@ -4029,7 +4029,7 @@ module.exports = [
     longitude: -88.9548001,
     population: '74710',
     rank: '448',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'San Ramon',
@@ -4038,7 +4038,7 @@ module.exports = [
     longitude: -121.9780153,
     population: '74513',
     rank: '449',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pleasanton',
@@ -4047,7 +4047,7 @@ module.exports = [
     longitude: -121.8746789,
     population: '74110',
     rank: '450',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Wyoming',
@@ -4056,7 +4056,7 @@ module.exports = [
     longitude: -85.7053085,
     population: '74100',
     rank: '451',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Lake Charles',
@@ -4065,7 +4065,7 @@ module.exports = [
     longitude: -93.2173758,
     population: '74024',
     rank: '452',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Plymouth',
@@ -4074,7 +4074,7 @@ module.exports = [
     longitude: -93.4555093,
     population: '73987',
     rank: '453',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Bolingbrook',
@@ -4083,7 +4083,7 @@ module.exports = [
     longitude: -88.0683955,
     population: '73936',
     rank: '454',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Pharr',
@@ -4092,7 +4092,7 @@ module.exports = [
     longitude: -98.1836216,
     population: '73790',
     rank: '455',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Appleton',
@@ -4101,7 +4101,7 @@ module.exports = [
     longitude: -88.41538469999999,
     population: '73596',
     rank: '456',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Gastonia',
@@ -4110,7 +4110,7 @@ module.exports = [
     longitude: -81.18730049999999,
     population: '73209',
     rank: '457',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Folsom',
@@ -4119,7 +4119,7 @@ module.exports = [
     longitude: -121.1760583,
     population: '73098',
     rank: '458',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Southfield',
@@ -4128,7 +4128,7 @@ module.exports = [
     longitude: -83.2218731,
     population: '73006',
     rank: '459',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Rochester Hills',
@@ -4137,7 +4137,7 @@ module.exports = [
     longitude: -83.1499322,
     population: '72952',
     rank: '460',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'New Britain',
@@ -4146,7 +4146,7 @@ module.exports = [
     longitude: -72.7795419,
     population: '72939',
     rank: '461',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Goodyear',
@@ -4155,7 +4155,7 @@ module.exports = [
     longitude: -112.3576567,
     population: '72864',
     rank: '462',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Canton',
@@ -4164,7 +4164,7 @@ module.exports = [
     longitude: -81.378447,
     population: '72535',
     rank: '463',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Warner Robins',
@@ -4173,7 +4173,7 @@ module.exports = [
     longitude: -83.624201,
     population: '72531',
     rank: '464',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Union City',
@@ -4182,7 +4182,7 @@ module.exports = [
     longitude: -122.0438298,
     population: '72528',
     rank: '465',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Perris',
@@ -4191,7 +4191,7 @@ module.exports = [
     longitude: -117.2286478,
     population: '72326',
     rank: '466',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Manteca',
@@ -4200,7 +4200,7 @@ module.exports = [
     longitude: -121.2160526,
     population: '71948',
     rank: '467',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Iowa City',
@@ -4209,7 +4209,7 @@ module.exports = [
     longitude: -91.5301683,
     population: '71591',
     rank: '468',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Jonesboro',
@@ -4218,7 +4218,7 @@ module.exports = [
     longitude: -90.704279,
     population: '71551',
     rank: '469',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Wilmington',
@@ -4227,7 +4227,7 @@ module.exports = [
     longitude: -75.5397878,
     population: '71525',
     rank: '470',
-    state: 'Delaware',
+    state: 'Delaware'
   },
   {
     city: 'Lynwood',
@@ -4236,7 +4236,7 @@ module.exports = [
     longitude: -118.2114603,
     population: '71371',
     rank: '471',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Loveland',
@@ -4245,7 +4245,7 @@ module.exports = [
     longitude: -105.0749801,
     population: '71334',
     rank: '472',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Pawtucket',
@@ -4254,7 +4254,7 @@ module.exports = [
     longitude: -71.38255579999999,
     population: '71172',
     rank: '473',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Boynton Beach',
@@ -4263,7 +4263,7 @@ module.exports = [
     longitude: -80.0905465,
     population: '71097',
     rank: '474',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Waukesha',
@@ -4272,7 +4272,7 @@ module.exports = [
     longitude: -88.2314813,
     population: '71016',
     rank: '475',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Gulfport',
@@ -4281,7 +4281,7 @@ module.exports = [
     longitude: -89.0928155,
     population: '71012',
     rank: '476',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Apple Valley',
@@ -4290,7 +4290,7 @@ module.exports = [
     longitude: -117.1858759,
     population: '70924',
     rank: '477',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Passaic',
@@ -4299,7 +4299,7 @@ module.exports = [
     longitude: -74.1284764,
     population: '70868',
     rank: '478',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Rapid City',
@@ -4308,7 +4308,7 @@ module.exports = [
     longitude: -103.2310149,
     population: '70812',
     rank: '479',
-    state: 'South Dakota',
+    state: 'South Dakota'
   },
   {
     city: 'Layton',
@@ -4317,7 +4317,7 @@ module.exports = [
     longitude: -111.9710529,
     population: '70790',
     rank: '480',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Lafayette',
@@ -4326,7 +4326,7 @@ module.exports = [
     longitude: -86.87528689999999,
     population: '70373',
     rank: '481',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Turlock',
@@ -4335,7 +4335,7 @@ module.exports = [
     longitude: -120.8465941,
     population: '70365',
     rank: '482',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Muncie',
@@ -4344,7 +4344,7 @@ module.exports = [
     longitude: -85.3863599,
     population: '70316',
     rank: '483',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Temple',
@@ -4353,7 +4353,7 @@ module.exports = [
     longitude: -97.342782,
     population: '70190',
     rank: '484',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Missouri City',
@@ -4362,7 +4362,7 @@ module.exports = [
     longitude: -95.5377215,
     population: '70185',
     rank: '485',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Redlands',
@@ -4371,7 +4371,7 @@ module.exports = [
     longitude: -117.1825381,
     population: '69999',
     rank: '486',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Santa Fe',
@@ -4380,7 +4380,7 @@ module.exports = [
     longitude: -105.937799,
     population: '69976',
     rank: '487',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'Lauderhill',
@@ -4389,7 +4389,7 @@ module.exports = [
     longitude: -80.2133808,
     population: '69813',
     rank: '488',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Milpitas',
@@ -4398,7 +4398,7 @@ module.exports = [
     longitude: -121.8995741,
     population: '69783',
     rank: '489',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Palatine',
@@ -4407,7 +4407,7 @@ module.exports = [
     longitude: -88.03424000000001,
     population: '69350',
     rank: '490',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Missoula',
@@ -4416,7 +4416,7 @@ module.exports = [
     longitude: -113.996586,
     population: '69122',
     rank: '491',
-    state: 'Montana',
+    state: 'Montana'
   },
   {
     city: 'Rock Hill',
@@ -4425,7 +4425,7 @@ module.exports = [
     longitude: -81.02507840000001,
     population: '69103',
     rank: '492',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Jacksonville',
@@ -4434,7 +4434,7 @@ module.exports = [
     longitude: -77.4302414,
     population: '69079',
     rank: '493',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Franklin',
@@ -4443,7 +4443,7 @@ module.exports = [
     longitude: -86.8688899,
     population: '68886',
     rank: '494',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Flagstaff',
@@ -4452,7 +4452,7 @@ module.exports = [
     longitude: -111.651302,
     population: '68667',
     rank: '495',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Flower Mound',
@@ -4461,7 +4461,7 @@ module.exports = [
     longitude: -97.0969552,
     population: '68609',
     rank: '496',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Weston',
@@ -4470,7 +4470,7 @@ module.exports = [
     longitude: -80.3997748,
     population: '68388',
     rank: '497',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Waterloo',
@@ -4479,7 +4479,7 @@ module.exports = [
     longitude: -92.34257749999999,
     population: '68366',
     rank: '498',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Union City',
@@ -4488,7 +4488,7 @@ module.exports = [
     longitude: -74.26316349999999,
     population: '68247',
     rank: '499',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Mount Vernon',
@@ -4497,7 +4497,7 @@ module.exports = [
     longitude: -73.8370786,
     population: '68224',
     rank: '500',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Fort Myers',
@@ -4506,7 +4506,7 @@ module.exports = [
     longitude: -81.8723084,
     population: '68190',
     rank: '501',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Dothan',
@@ -4515,7 +4515,7 @@ module.exports = [
     longitude: -85.3904888,
     population: '68001',
     rank: '502',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Rancho Cordova',
@@ -4524,7 +4524,7 @@ module.exports = [
     longitude: -121.302728,
     population: '67911',
     rank: '503',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Redondo Beach',
@@ -4533,7 +4533,7 @@ module.exports = [
     longitude: -118.3884078,
     population: '67815',
     rank: '504',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Jackson',
@@ -4542,7 +4542,7 @@ module.exports = [
     longitude: -88.81394689999999,
     population: '67685',
     rank: '505',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Pasco',
@@ -4551,7 +4551,7 @@ module.exports = [
     longitude: -119.1005657,
     population: '67599',
     rank: '506',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'St. Charles',
@@ -4560,7 +4560,7 @@ module.exports = [
     longitude: -90.4974359,
     population: '67569',
     rank: '507',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Eau Claire',
@@ -4569,7 +4569,7 @@ module.exports = [
     longitude: -91.4984941,
     population: '67545',
     rank: '508',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'North Richland Hills',
@@ -4578,7 +4578,7 @@ module.exports = [
     longitude: -97.2289029,
     population: '67317',
     rank: '509',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Bismarck',
@@ -4587,7 +4587,7 @@ module.exports = [
     longitude: -100.7837392,
     population: '67034',
     rank: '510',
-    state: 'North Dakota',
+    state: 'North Dakota'
   },
   {
     city: 'Yorba Linda',
@@ -4596,7 +4596,7 @@ module.exports = [
     longitude: -117.8131125,
     population: '67032',
     rank: '511',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Kenner',
@@ -4605,7 +4605,7 @@ module.exports = [
     longitude: -90.2417434,
     population: '66975',
     rank: '512',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Walnut Creek',
@@ -4614,7 +4614,7 @@ module.exports = [
     longitude: -122.0651819,
     population: '66900',
     rank: '513',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Frederick',
@@ -4623,7 +4623,7 @@ module.exports = [
     longitude: -77.4105409,
     population: '66893',
     rank: '514',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Oshkosh',
@@ -4632,7 +4632,7 @@ module.exports = [
     longitude: -88.5426136,
     population: '66778',
     rank: '515',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Pittsburg',
@@ -4641,7 +4641,7 @@ module.exports = [
     longitude: -121.8846806,
     population: '66695',
     rank: '516',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Palo Alto',
@@ -4650,7 +4650,7 @@ module.exports = [
     longitude: -122.1430195,
     population: '66642',
     rank: '517',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Bossier City',
@@ -4659,7 +4659,7 @@ module.exports = [
     longitude: -93.7321228,
     population: '66333',
     rank: '518',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Portland',
@@ -4668,7 +4668,7 @@ module.exports = [
     longitude: -70.2553259,
     population: '66318',
     rank: '519',
-    state: 'Maine',
+    state: 'Maine'
   },
   {
     city: 'St. Cloud',
@@ -4677,7 +4677,7 @@ module.exports = [
     longitude: -94.16324039999999,
     population: '66297',
     rank: '520',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Davis',
@@ -4686,7 +4686,7 @@ module.exports = [
     longitude: -121.7405167,
     population: '66205',
     rank: '521',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'South San Francisco',
@@ -4695,7 +4695,7 @@ module.exports = [
     longitude: -122.4077498,
     population: '66174',
     rank: '522',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Camarillo',
@@ -4704,7 +4704,7 @@ module.exports = [
     longitude: -119.0376023,
     population: '66086',
     rank: '523',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'North Little Rock',
@@ -4713,7 +4713,7 @@ module.exports = [
     longitude: -92.2670941,
     population: '66075',
     rank: '524',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Schenectady',
@@ -4722,7 +4722,7 @@ module.exports = [
     longitude: -73.9395687,
     population: '65902',
     rank: '525',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Gaithersburg',
@@ -4731,7 +4731,7 @@ module.exports = [
     longitude: -77.2013705,
     population: '65690',
     rank: '526',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Harlingen',
@@ -4740,7 +4740,7 @@ module.exports = [
     longitude: -97.69610259999999,
     population: '65665',
     rank: '527',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Woodbury',
@@ -4749,7 +4749,7 @@ module.exports = [
     longitude: -92.9593797,
     population: '65656',
     rank: '528',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Eagan',
@@ -4758,7 +4758,7 @@ module.exports = [
     longitude: -93.1668858,
     population: '65453',
     rank: '529',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Yuba City',
@@ -4767,7 +4767,7 @@ module.exports = [
     longitude: -121.6169108,
     population: '65416',
     rank: '530',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Maple Grove',
@@ -4776,7 +4776,7 @@ module.exports = [
     longitude: -93.4557877,
     population: '65415',
     rank: '531',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Youngstown',
@@ -4785,7 +4785,7 @@ module.exports = [
     longitude: -80.6495194,
     population: '65184',
     rank: '532',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Skokie',
@@ -4794,7 +4794,7 @@ module.exports = [
     longitude: -87.7416246,
     population: '65176',
     rank: '533',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Kissimmee',
@@ -4803,7 +4803,7 @@ module.exports = [
     longitude: -81.40757099999999,
     population: '65173',
     rank: '534',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Johnson City',
@@ -4812,7 +4812,7 @@ module.exports = [
     longitude: -82.3534727,
     population: '65123',
     rank: '535',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Victoria',
@@ -4821,7 +4821,7 @@ module.exports = [
     longitude: -97.0035982,
     population: '65098',
     rank: '536',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'San Clemente',
@@ -4830,7 +4830,7 @@ module.exports = [
     longitude: -117.6119925,
     population: '65040',
     rank: '537',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Bayonne',
@@ -4839,7 +4839,7 @@ module.exports = [
     longitude: -74.1143091,
     population: '65028',
     rank: '538',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Laguna Niguel',
@@ -4848,7 +4848,7 @@ module.exports = [
     longitude: -117.7075526,
     population: '64652',
     rank: '539',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'East Orange',
@@ -4857,7 +4857,7 @@ module.exports = [
     longitude: -74.2048677,
     population: '64544',
     rank: '540',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Shawnee',
@@ -4866,7 +4866,7 @@ module.exports = [
     longitude: -94.7151865,
     population: '64323',
     rank: '541',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Homestead',
@@ -4875,7 +4875,7 @@ module.exports = [
     longitude: -80.4775569,
     population: '64079',
     rank: '542',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Rockville',
@@ -4884,7 +4884,7 @@ module.exports = [
     longitude: -77.1527578,
     population: '64072',
     rank: '544',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Delray Beach',
@@ -4893,7 +4893,7 @@ module.exports = [
     longitude: -80.0728201,
     population: '64072',
     rank: '543',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Janesville',
@@ -4902,7 +4902,7 @@ module.exports = [
     longitude: -89.0187222,
     population: '63820',
     rank: '545',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Conway',
@@ -4911,7 +4911,7 @@ module.exports = [
     longitude: -92.4421011,
     population: '63816',
     rank: '546',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Pico Rivera',
@@ -4920,7 +4920,7 @@ module.exports = [
     longitude: -118.096735,
     population: '63771',
     rank: '547',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Lorain',
@@ -4929,7 +4929,7 @@ module.exports = [
     longitude: -82.1823746,
     population: '63710',
     rank: '548',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Montebello',
@@ -4938,7 +4938,7 @@ module.exports = [
     longitude: -118.1137535,
     population: '63495',
     rank: '549',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Lodi',
@@ -4947,7 +4947,7 @@ module.exports = [
     longitude: -121.2722194,
     population: '63338',
     rank: '550',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'New Braunfels',
@@ -4956,7 +4956,7 @@ module.exports = [
     longitude: -98.1244531,
     population: '63279',
     rank: '551',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Marysville',
@@ -4965,7 +4965,7 @@ module.exports = [
     longitude: -122.1770818,
     population: '63269',
     rank: '552',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Tamarac',
@@ -4974,7 +4974,7 @@ module.exports = [
     longitude: -80.2497707,
     population: '63155',
     rank: '553',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Madera',
@@ -4983,7 +4983,7 @@ module.exports = [
     longitude: -120.0607176,
     population: '63105',
     rank: '554',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Conroe',
@@ -4992,7 +4992,7 @@ module.exports = [
     longitude: -95.45605119999999,
     population: '63032',
     rank: '555',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Santa Cruz',
@@ -5001,7 +5001,7 @@ module.exports = [
     longitude: -122.0307963,
     population: '62864',
     rank: '556',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Eden Prairie',
@@ -5010,7 +5010,7 @@ module.exports = [
     longitude: -93.47078599999999,
     population: '62603',
     rank: '557',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Cheyenne',
@@ -5019,7 +5019,7 @@ module.exports = [
     longitude: -104.8202462,
     population: '62448',
     rank: '558',
-    state: 'Wyoming',
+    state: 'Wyoming'
   },
   {
     city: 'Daytona Beach',
@@ -5028,7 +5028,7 @@ module.exports = [
     longitude: -81.0228331,
     population: '62316',
     rank: '559',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Alpharetta',
@@ -5037,7 +5037,7 @@ module.exports = [
     longitude: -84.2940899,
     population: '62298',
     rank: '560',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Hamilton',
@@ -5046,7 +5046,7 @@ module.exports = [
     longitude: -84.5613355,
     population: '62258',
     rank: '561',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Waltham',
@@ -5055,7 +5055,7 @@ module.exports = [
     longitude: -71.2356113,
     population: '62227',
     rank: '562',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Coon Rapids',
@@ -5064,7 +5064,7 @@ module.exports = [
     longitude: -93.30300629999999,
     population: '62103',
     rank: '563',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Haverhill',
@@ -5073,7 +5073,7 @@ module.exports = [
     longitude: -71.0772796,
     population: '62088',
     rank: '564',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Council Bluffs',
@@ -5082,7 +5082,7 @@ module.exports = [
     longitude: -95.8608333,
     population: '61969',
     rank: '565',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Taylor',
@@ -5091,7 +5091,7 @@ module.exports = [
     longitude: -83.2696509,
     population: '61817',
     rank: '566',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Utica',
@@ -5100,7 +5100,7 @@ module.exports = [
     longitude: -75.232664,
     population: '61808',
     rank: '567',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Ames',
@@ -5109,7 +5109,7 @@ module.exports = [
     longitude: -93.61999999999999,
     population: '61792',
     rank: '568',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'La Habra',
@@ -5118,7 +5118,7 @@ module.exports = [
     longitude: -117.9461734,
     population: '61653',
     rank: '569',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Encinitas',
@@ -5127,7 +5127,7 @@ module.exports = [
     longitude: -117.2919818,
     population: '61588',
     rank: '570',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Bowling Green',
@@ -5136,7 +5136,7 @@ module.exports = [
     longitude: -86.4808043,
     population: '61488',
     rank: '571',
-    state: 'Kentucky',
+    state: 'Kentucky'
   },
   {
     city: 'Burnsville',
@@ -5145,7 +5145,7 @@ module.exports = [
     longitude: -93.27772259999999,
     population: '61434',
     rank: '572',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Greenville',
@@ -5154,7 +5154,7 @@ module.exports = [
     longitude: -82.3940104,
     population: '61397',
     rank: '573',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'West Des Moines',
@@ -5163,7 +5163,7 @@ module.exports = [
     longitude: -93.711332,
     population: '61255',
     rank: '574',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Cedar Park',
@@ -5172,7 +5172,7 @@ module.exports = [
     longitude: -97.8202888,
     population: '61238',
     rank: '575',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Tulare',
@@ -5181,7 +5181,7 @@ module.exports = [
     longitude: -119.3473379,
     population: '61170',
     rank: '576',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Monterey Park',
@@ -5190,7 +5190,7 @@ module.exports = [
     longitude: -118.1228476,
     population: '61085',
     rank: '577',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Vineland',
@@ -5199,7 +5199,7 @@ module.exports = [
     longitude: -75.02596369999999,
     population: '61050',
     rank: '578',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Terre Haute',
@@ -5208,7 +5208,7 @@ module.exports = [
     longitude: -87.41390919999999,
     population: '61025',
     rank: '579',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'North Miami',
@@ -5217,7 +5217,7 @@ module.exports = [
     longitude: -80.1867138,
     population: '61007',
     rank: '580',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Mansfield',
@@ -5226,7 +5226,7 @@ module.exports = [
     longitude: -97.1416768,
     population: '60872',
     rank: '581',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'West Allis',
@@ -5235,7 +5235,7 @@ module.exports = [
     longitude: -88.0070315,
     population: '60697',
     rank: '582',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Bristol',
@@ -5244,7 +5244,7 @@ module.exports = [
     longitude: -72.9492703,
     population: '60568',
     rank: '583',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Taylorsville',
@@ -5253,7 +5253,7 @@ module.exports = [
     longitude: -111.9388258,
     population: '60519',
     rank: '584',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Malden',
@@ -5262,7 +5262,7 @@ module.exports = [
     longitude: -71.066163,
     population: '60509',
     rank: '585',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Meriden',
@@ -5271,7 +5271,7 @@ module.exports = [
     longitude: -72.80704349999999,
     population: '60456',
     rank: '586',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Blaine',
@@ -5280,7 +5280,7 @@ module.exports = [
     longitude: -93.23494889999999,
     population: '60407',
     rank: '587',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Wellington',
@@ -5289,7 +5289,7 @@ module.exports = [
     longitude: -80.2683571,
     population: '60202',
     rank: '588',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Cupertino',
@@ -5298,7 +5298,7 @@ module.exports = [
     longitude: -122.0321823,
     population: '60189',
     rank: '589',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Springfield',
@@ -5307,7 +5307,7 @@ module.exports = [
     longitude: -123.0220289,
     population: '60177',
     rank: '590',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Rogers',
@@ -5316,7 +5316,7 @@ module.exports = [
     longitude: -94.1185366,
     population: '60112',
     rank: '591',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'St. Clair Shores',
@@ -5325,7 +5325,7 @@ module.exports = [
     longitude: -82.89636039999999,
     population: '60070',
     rank: '592',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Gardena',
@@ -5334,7 +5334,7 @@ module.exports = [
     longitude: -118.3089624,
     population: '59957',
     rank: '593',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pontiac',
@@ -5343,7 +5343,7 @@ module.exports = [
     longitude: -83.29104679999999,
     population: '59887',
     rank: '594',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'National City',
@@ -5352,7 +5352,7 @@ module.exports = [
     longitude: -117.0991967,
     population: '59834',
     rank: '595',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Grand Junction',
@@ -5361,7 +5361,7 @@ module.exports = [
     longitude: -108.5506486,
     population: '59778',
     rank: '596',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Rocklin',
@@ -5370,7 +5370,7 @@ module.exports = [
     longitude: -121.2357828,
     population: '59738',
     rank: '597',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Chapel Hill',
@@ -5379,7 +5379,7 @@ module.exports = [
     longitude: -79.0558445,
     population: '59635',
     rank: '598',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Casper',
@@ -5388,7 +5388,7 @@ module.exports = [
     longitude: -106.313081,
     population: '59628',
     rank: '599',
-    state: 'Wyoming',
+    state: 'Wyoming'
   },
   {
     city: 'Broomfield',
@@ -5397,7 +5397,7 @@ module.exports = [
     longitude: -105.0866504,
     population: '59471',
     rank: '600',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Petaluma',
@@ -5406,7 +5406,7 @@ module.exports = [
     longitude: -122.6366524,
     population: '59440',
     rank: '601',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'South Jordan',
@@ -5415,7 +5415,7 @@ module.exports = [
     longitude: -111.929658,
     population: '59366',
     rank: '602',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Springfield',
@@ -5424,7 +5424,7 @@ module.exports = [
     longitude: -83.8088171,
     population: '59357',
     rank: '603',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Great Falls',
@@ -5433,7 +5433,7 @@ module.exports = [
     longitude: -111.2833449,
     population: '59351',
     rank: '604',
-    state: 'Montana',
+    state: 'Montana'
   },
   {
     city: 'Lancaster',
@@ -5442,7 +5442,7 @@ module.exports = [
     longitude: -76.3055144,
     population: '59325',
     rank: '605',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'North Port',
@@ -5451,7 +5451,7 @@ module.exports = [
     longitude: -82.2359254,
     population: '59212',
     rank: '606',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Lakewood',
@@ -5460,7 +5460,7 @@ module.exports = [
     longitude: -122.518458,
     population: '59097',
     rank: '607',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Marietta',
@@ -5469,7 +5469,7 @@ module.exports = [
     longitude: -84.5499327,
     population: '59089',
     rank: '608',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'San Rafael',
@@ -5478,7 +5478,7 @@ module.exports = [
     longitude: -122.5310874,
     population: '58994',
     rank: '609',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Royal Oak',
@@ -5487,7 +5487,7 @@ module.exports = [
     longitude: -83.1446485,
     population: '58946',
     rank: '610',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Des Plaines',
@@ -5496,7 +5496,7 @@ module.exports = [
     longitude: -87.88339909999999,
     population: '58918',
     rank: '611',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Huntington Park',
@@ -5505,7 +5505,7 @@ module.exports = [
     longitude: -118.2250725,
     population: '58879',
     rank: '612',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'La Mesa',
@@ -5514,7 +5514,7 @@ module.exports = [
     longitude: -117.0230839,
     population: '58642',
     rank: '613',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Orland Park',
@@ -5523,7 +5523,7 @@ module.exports = [
     longitude: -87.85394250000002,
     population: '58590',
     rank: '614',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Auburn',
@@ -5532,7 +5532,7 @@ module.exports = [
     longitude: -85.48078249999999,
     population: '58582',
     rank: '615',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Lakeville',
@@ -5541,7 +5541,7 @@ module.exports = [
     longitude: -93.24271999999999,
     population: '58562',
     rank: '616',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Owensboro',
@@ -5550,7 +5550,7 @@ module.exports = [
     longitude: -87.1111676,
     population: '58416',
     rank: '617',
-    state: 'Kentucky',
+    state: 'Kentucky'
   },
   {
     city: 'Moore',
@@ -5559,7 +5559,7 @@ module.exports = [
     longitude: -97.48670279999999,
     population: '58414',
     rank: '618',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Jupiter',
@@ -5568,7 +5568,7 @@ module.exports = [
     longitude: -80.0942087,
     population: '58298',
     rank: '619',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Idaho Falls',
@@ -5577,7 +5577,7 @@ module.exports = [
     longitude: -112.0339645,
     population: '58292',
     rank: '620',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Dubuque',
@@ -5586,7 +5586,7 @@ module.exports = [
     longitude: -90.66457179999999,
     population: '58253',
     rank: '621',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Bartlett',
@@ -5595,7 +5595,7 @@ module.exports = [
     longitude: -89.8739753,
     population: '58226',
     rank: '622',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Rowlett',
@@ -5604,7 +5604,7 @@ module.exports = [
     longitude: -96.56388,
     population: '58043',
     rank: '623',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Novi',
@@ -5613,7 +5613,7 @@ module.exports = [
     longitude: -83.4754913,
     population: '57960',
     rank: '624',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'White Plains',
@@ -5622,7 +5622,7 @@ module.exports = [
     longitude: -73.7629097,
     population: '57866',
     rank: '625',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Arcadia',
@@ -5631,7 +5631,7 @@ module.exports = [
     longitude: -118.0353449,
     population: '57639',
     rank: '626',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Redmond',
@@ -5640,7 +5640,7 @@ module.exports = [
     longitude: -122.121512,
     population: '57530',
     rank: '627',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Lake Elsinore',
@@ -5649,7 +5649,7 @@ module.exports = [
     longitude: -117.3272615,
     population: '57525',
     rank: '628',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Ocala',
@@ -5658,7 +5658,7 @@ module.exports = [
     longitude: -82.14009229999999,
     population: '57468',
     rank: '629',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Tinley Park',
@@ -5667,7 +5667,7 @@ module.exports = [
     longitude: -87.7932939,
     population: '57282',
     rank: '630',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Port Orange',
@@ -5676,7 +5676,7 @@ module.exports = [
     longitude: -80.9956105,
     population: '57203',
     rank: '631',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Medford',
@@ -5685,7 +5685,7 @@ module.exports = [
     longitude: -71.1061639,
     population: '57170',
     rank: '632',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Oak Lawn',
@@ -5694,7 +5694,7 @@ module.exports = [
     longitude: -87.7479528,
     population: '57073',
     rank: '633',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Rocky Mount',
@@ -5703,7 +5703,7 @@ module.exports = [
     longitude: -77.7905339,
     population: '56954',
     rank: '634',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Kokomo',
@@ -5712,7 +5712,7 @@ module.exports = [
     longitude: -86.13360329999999,
     population: '56895',
     rank: '635',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Coconut Creek',
@@ -5721,7 +5721,7 @@ module.exports = [
     longitude: -80.17893509999999,
     population: '56792',
     rank: '636',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Bowie',
@@ -5730,7 +5730,7 @@ module.exports = [
     longitude: -76.77913649999999,
     population: '56759',
     rank: '637',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Berwyn',
@@ -5739,7 +5739,7 @@ module.exports = [
     longitude: -87.7936685,
     population: '56758',
     rank: '638',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Midwest City',
@@ -5748,7 +5748,7 @@ module.exports = [
     longitude: -97.3967019,
     population: '56756',
     rank: '639',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Fountain Valley',
@@ -5757,7 +5757,7 @@ module.exports = [
     longitude: -117.9536697,
     population: '56707',
     rank: '640',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Buckeye',
@@ -5766,7 +5766,7 @@ module.exports = [
     longitude: -112.5837766,
     population: '56683',
     rank: '641',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Dearborn Heights',
@@ -5775,7 +5775,7 @@ module.exports = [
     longitude: -83.27326269999999,
     population: '56620',
     rank: '642',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Woodland',
@@ -5784,7 +5784,7 @@ module.exports = [
     longitude: -121.7732971,
     population: '56590',
     rank: '643',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Noblesville',
@@ -5793,7 +5793,7 @@ module.exports = [
     longitude: -86.0085955,
     population: '56540',
     rank: '644',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Valdosta',
@@ -5802,7 +5802,7 @@ module.exports = [
     longitude: -83.2784851,
     population: '56481',
     rank: '645',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Diamond Bar',
@@ -5811,7 +5811,7 @@ module.exports = [
     longitude: -117.8103367,
     population: '56449',
     rank: '646',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Manhattan',
@@ -5820,7 +5820,7 @@ module.exports = [
     longitude: -96.57166939999999,
     population: '56143',
     rank: '647',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Santee',
@@ -5829,7 +5829,7 @@ module.exports = [
     longitude: -116.9739167,
     population: '56105',
     rank: '648',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Taunton',
@@ -5838,7 +5838,7 @@ module.exports = [
     longitude: -71.0897674,
     population: '56069',
     rank: '649',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Sanford',
@@ -5847,7 +5847,7 @@ module.exports = [
     longitude: -81.269453,
     population: '56002',
     rank: '650',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Kettering',
@@ -5856,7 +5856,7 @@ module.exports = [
     longitude: -84.1688274,
     population: '55870',
     rank: '651',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'New Brunswick',
@@ -5865,7 +5865,7 @@ module.exports = [
     longitude: -74.4518188,
     population: '55831',
     rank: '652',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Decatur',
@@ -5874,7 +5874,7 @@ module.exports = [
     longitude: -86.9833417,
     population: '55816',
     rank: '653',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Chicopee',
@@ -5883,7 +5883,7 @@ module.exports = [
     longitude: -72.6078672,
     population: '55717',
     rank: '654',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Anderson',
@@ -5892,7 +5892,7 @@ module.exports = [
     longitude: -85.6802541,
     population: '55670',
     rank: '655',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Margate',
@@ -5901,7 +5901,7 @@ module.exports = [
     longitude: -80.206436,
     population: '55456',
     rank: '656',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Weymouth Town',
@@ -5910,7 +5910,7 @@ module.exports = [
     longitude: -70.94103559999999,
     population: '55419',
     rank: '657',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Hempstead',
@@ -5919,7 +5919,7 @@ module.exports = [
     longitude: -73.6187397,
     population: '55361',
     rank: '658',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Corvallis',
@@ -5928,7 +5928,7 @@ module.exports = [
     longitude: -123.2620435,
     population: '55298',
     rank: '659',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Eastvale',
@@ -5937,7 +5937,7 @@ module.exports = [
     longitude: -117.5848025,
     population: '55191',
     rank: '660',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Porterville',
@@ -5946,7 +5946,7 @@ module.exports = [
     longitude: -119.0167679,
     population: '55174',
     rank: '661',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'West Haven',
@@ -5955,7 +5955,7 @@ module.exports = [
     longitude: -72.9469711,
     population: '55046',
     rank: '662',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Brentwood',
@@ -5964,7 +5964,7 @@ module.exports = [
     longitude: -121.6957863,
     population: '55000',
     rank: '663',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Paramount',
@@ -5973,7 +5973,7 @@ module.exports = [
     longitude: -118.1597911,
     population: '54980',
     rank: '664',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Grand Forks',
@@ -5982,7 +5982,7 @@ module.exports = [
     longitude: -97.0328547,
     population: '54932',
     rank: '665',
-    state: 'North Dakota',
+    state: 'North Dakota'
   },
   {
     city: 'Georgetown',
@@ -5991,7 +5991,7 @@ module.exports = [
     longitude: -97.6779842,
     population: '54898',
     rank: '666',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'St. Peters',
@@ -6000,7 +6000,7 @@ module.exports = [
     longitude: -90.6298922,
     population: '54842',
     rank: '667',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Shoreline',
@@ -6009,7 +6009,7 @@ module.exports = [
     longitude: -122.3415178,
     population: '54790',
     rank: '668',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Mount Prospect',
@@ -6018,7 +6018,7 @@ module.exports = [
     longitude: -87.9372908,
     population: '54771',
     rank: '669',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Hanford',
@@ -6027,7 +6027,7 @@ module.exports = [
     longitude: -119.6456844,
     population: '54686',
     rank: '670',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Normal',
@@ -6036,7 +6036,7 @@ module.exports = [
     longitude: -88.9906312,
     population: '54664',
     rank: '671',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Rosemead',
@@ -6045,7 +6045,7 @@ module.exports = [
     longitude: -118.072846,
     population: '54561',
     rank: '672',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Lehi',
@@ -6054,7 +6054,7 @@ module.exports = [
     longitude: -111.8507662,
     population: '54382',
     rank: '673',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Pocatello',
@@ -6063,7 +6063,7 @@ module.exports = [
     longitude: -112.4455344,
     population: '54350',
     rank: '674',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Highland',
@@ -6072,7 +6072,7 @@ module.exports = [
     longitude: -117.2086513,
     population: '54291',
     rank: '675',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Novato',
@@ -6081,7 +6081,7 @@ module.exports = [
     longitude: -122.5697032,
     population: '54194',
     rank: '676',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Port Arthur',
@@ -6090,7 +6090,7 @@ module.exports = [
     longitude: -93.93994699999999,
     population: '54135',
     rank: '677',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Carson City',
@@ -6099,7 +6099,7 @@ module.exports = [
     longitude: -119.7674034,
     population: '54080',
     rank: '678',
-    state: 'Nevada',
+    state: 'Nevada'
   },
   {
     city: 'San Marcos',
@@ -6108,7 +6108,7 @@ module.exports = [
     longitude: -97.9413941,
     population: '54076',
     rank: '679',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Hendersonville',
@@ -6117,7 +6117,7 @@ module.exports = [
     longitude: -86.6199957,
     population: '54068',
     rank: '680',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Elyria',
@@ -6126,7 +6126,7 @@ module.exports = [
     longitude: -82.10764859999999,
     population: '53956',
     rank: '681',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Revere',
@@ -6135,7 +6135,7 @@ module.exports = [
     longitude: -71.0119948,
     population: '53756',
     rank: '682',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Pflugerville',
@@ -6144,7 +6144,7 @@ module.exports = [
     longitude: -97.62000429999999,
     population: '53752',
     rank: '683',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Greenwood',
@@ -6153,7 +6153,7 @@ module.exports = [
     longitude: -86.10665259999999,
     population: '53665',
     rank: '684',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Bellevue',
@@ -6162,7 +6162,7 @@ module.exports = [
     longitude: -95.9145568,
     population: '53663',
     rank: '685',
-    state: 'Nebraska',
+    state: 'Nebraska'
   },
   {
     city: 'Wheaton',
@@ -6171,7 +6171,7 @@ module.exports = [
     longitude: -88.1070127,
     population: '53648',
     rank: '686',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Smyrna',
@@ -6180,7 +6180,7 @@ module.exports = [
     longitude: -84.51437609999999,
     population: '53438',
     rank: '687',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Sarasota',
@@ -6189,7 +6189,7 @@ module.exports = [
     longitude: -82.53065269999999,
     population: '53326',
     rank: '688',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Blue Springs',
@@ -6198,7 +6198,7 @@ module.exports = [
     longitude: -94.2816148,
     population: '53294',
     rank: '689',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Colton',
@@ -6207,7 +6207,7 @@ module.exports = [
     longitude: -117.3136547,
     population: '53243',
     rank: '690',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Euless',
@@ -6216,7 +6216,7 @@ module.exports = [
     longitude: -97.08195409999999,
     population: '53224',
     rank: '691',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Castle Rock',
@@ -6225,7 +6225,7 @@ module.exports = [
     longitude: -104.8560902,
     population: '53063',
     rank: '692',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Cathedral City',
@@ -6234,7 +6234,7 @@ module.exports = [
     longitude: -116.4668036,
     population: '52977',
     rank: '693',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Kingsport',
@@ -6243,7 +6243,7 @@ module.exports = [
     longitude: -82.5618186,
     population: '52962',
     rank: '694',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Lake Havasu City',
@@ -6252,7 +6252,7 @@ module.exports = [
     longitude: -114.3224548,
     population: '52844',
     rank: '695',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Pensacola',
@@ -6261,7 +6261,7 @@ module.exports = [
     longitude: -87.2169149,
     population: '52703',
     rank: '696',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Hoboken',
@@ -6270,7 +6270,7 @@ module.exports = [
     longitude: -74.0323626,
     population: '52575',
     rank: '697',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Yucaipa',
@@ -6279,7 +6279,7 @@ module.exports = [
     longitude: -117.0430865,
     population: '52536',
     rank: '698',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Watsonville',
@@ -6288,7 +6288,7 @@ module.exports = [
     longitude: -121.7568946,
     population: '52477',
     rank: '699',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Richland',
@@ -6297,7 +6297,7 @@ module.exports = [
     longitude: -119.2844621,
     population: '52413',
     rank: '700',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Delano',
@@ -6306,7 +6306,7 @@ module.exports = [
     longitude: -119.2470536,
     population: '52403',
     rank: '701',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Hoffman Estates',
@@ -6315,7 +6315,7 @@ module.exports = [
     longitude: -88.12271989999999,
     population: '52398',
     rank: '702',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Florissant',
@@ -6324,7 +6324,7 @@ module.exports = [
     longitude: -90.322614,
     population: '52363',
     rank: '703',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Placentia',
@@ -6333,7 +6333,7 @@ module.exports = [
     longitude: -117.8703363,
     population: '52206',
     rank: '704',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'West New York',
@@ -6342,7 +6342,7 @@ module.exports = [
     longitude: -74.0143064,
     population: '52122',
     rank: '705',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Dublin',
@@ -6351,7 +6351,7 @@ module.exports = [
     longitude: -121.9357918,
     population: '52105',
     rank: '706',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Oak Park',
@@ -6360,7 +6360,7 @@ module.exports = [
     longitude: -87.7845025,
     population: '52066',
     rank: '707',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Peabody',
@@ -6369,7 +6369,7 @@ module.exports = [
     longitude: -70.9286609,
     population: '52044',
     rank: '708',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Perth Amboy',
@@ -6378,7 +6378,7 @@ module.exports = [
     longitude: -74.2654234,
     population: '51982',
     rank: '709',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Battle Creek',
@@ -6387,7 +6387,7 @@ module.exports = [
     longitude: -85.17971419999999,
     population: '51848',
     rank: '710',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Bradenton',
@@ -6396,7 +6396,7 @@ module.exports = [
     longitude: -82.5748194,
     population: '51763',
     rank: '711',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Gilroy',
@@ -6405,7 +6405,7 @@ module.exports = [
     longitude: -121.5682751,
     population: '51701',
     rank: '712',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Milford',
@@ -6414,7 +6414,7 @@ module.exports = [
     longitude: -73.064036,
     population: '51644',
     rank: '713',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Albany',
@@ -6423,7 +6423,7 @@ module.exports = [
     longitude: -123.1059282,
     population: '51583',
     rank: '714',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Ankeny',
@@ -6432,7 +6432,7 @@ module.exports = [
     longitude: -93.6001278,
     population: '51567',
     rank: '715',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'La Crosse',
@@ -6441,7 +6441,7 @@ module.exports = [
     longitude: -91.23958069999999,
     population: '51522',
     rank: '716',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Burlington',
@@ -6450,7 +6450,7 @@ module.exports = [
     longitude: -79.43779909999999,
     population: '51510',
     rank: '717',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'DeSoto',
@@ -6459,7 +6459,7 @@ module.exports = [
     longitude: -96.8570738,
     population: '51483',
     rank: '718',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Harrisonburg',
@@ -6468,7 +6468,7 @@ module.exports = [
     longitude: -78.8689155,
     population: '51395',
     rank: '719',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Minnetonka',
@@ -6477,7 +6477,7 @@ module.exports = [
     longitude: -93.4687489,
     population: '51368',
     rank: '720',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Elkhart',
@@ -6486,7 +6486,7 @@ module.exports = [
     longitude: -85.9766671,
     population: '51265',
     rank: '721',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Lakewood',
@@ -6495,7 +6495,7 @@ module.exports = [
     longitude: -81.7981908,
     population: '51143',
     rank: '722',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Glendora',
@@ -6504,7 +6504,7 @@ module.exports = [
     longitude: -117.865339,
     population: '51074',
     rank: '723',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Southaven',
@@ -6513,7 +6513,7 @@ module.exports = [
     longitude: -90.0125913,
     population: '50997',
     rank: '724',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Charleston',
@@ -6522,7 +6522,7 @@ module.exports = [
     longitude: -81.6326234,
     population: '50821',
     rank: '725',
-    state: 'West Virginia',
+    state: 'West Virginia'
   },
   {
     city: 'Joplin',
@@ -6531,7 +6531,7 @@ module.exports = [
     longitude: -94.51328099999999,
     population: '50789',
     rank: '726',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Enid',
@@ -6540,7 +6540,7 @@ module.exports = [
     longitude: -97.8783911,
     population: '50725',
     rank: '727',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Palm Beach Gardens',
@@ -6549,7 +6549,7 @@ module.exports = [
     longitude: -80.13865469999999,
     population: '50699',
     rank: '728',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Brookhaven',
@@ -6558,7 +6558,7 @@ module.exports = [
     longitude: -84.3365917,
     population: '50603',
     rank: '729',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Plainfield',
@@ -6567,7 +6567,7 @@ module.exports = [
     longitude: -74.4073736,
     population: '50588',
     rank: '730',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Grand Island',
@@ -6576,7 +6576,7 @@ module.exports = [
     longitude: -98.3420118,
     population: '50550',
     rank: '731',
-    state: 'Nebraska',
+    state: 'Nebraska'
   },
   {
     city: 'Palm Desert',
@@ -6585,7 +6585,7 @@ module.exports = [
     longitude: -116.3744556,
     population: '50508',
     rank: '732',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Huntersville',
@@ -6594,7 +6594,7 @@ module.exports = [
     longitude: -80.84285040000002,
     population: '50458',
     rank: '733',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Tigard',
@@ -6603,7 +6603,7 @@ module.exports = [
     longitude: -122.7714861,
     population: '50444',
     rank: '734',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Lenexa',
@@ -6612,7 +6612,7 @@ module.exports = [
     longitude: -94.73357089999999,
     population: '50344',
     rank: '735',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Saginaw',
@@ -6621,7 +6621,7 @@ module.exports = [
     longitude: -83.9508068,
     population: '50303',
     rank: '736',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Kentwood',
@@ -6630,7 +6630,7 @@ module.exports = [
     longitude: -85.64474919999999,
     population: '50233',
     rank: '737',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Doral',
@@ -6639,7 +6639,7 @@ module.exports = [
     longitude: -80.3553302,
     population: '50213',
     rank: '738',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Apple Valley',
@@ -6648,7 +6648,7 @@ module.exports = [
     longitude: -93.21772000000001,
     population: '50201',
     rank: '739',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Grapevine',
@@ -6657,7 +6657,7 @@ module.exports = [
     longitude: -97.0780654,
     population: '50195',
     rank: '740',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Aliso Viejo',
@@ -6666,7 +6666,7 @@ module.exports = [
     longitude: -117.7256083,
     population: '50175',
     rank: '741',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Sammamish',
@@ -6675,7 +6675,7 @@ module.exports = [
     longitude: -122.0355736,
     population: '50169',
     rank: '742',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Casa Grande',
@@ -6684,7 +6684,7 @@ module.exports = [
     longitude: -111.7573521,
     population: '50111',
     rank: '743',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Pinellas Park',
@@ -6693,7 +6693,7 @@ module.exports = [
     longitude: -82.6995443,
     population: '49998',
     rank: '744',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Troy',
@@ -6702,7 +6702,7 @@ module.exports = [
     longitude: -73.69178509999999,
     population: '49974',
     rank: '745',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'West Sacramento',
@@ -6711,7 +6711,7 @@ module.exports = [
     longitude: -121.530234,
     population: '49891',
     rank: '746',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Burien',
@@ -6720,7 +6720,7 @@ module.exports = [
     longitude: -122.3467918,
     population: '49858',
     rank: '747',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Commerce City',
@@ -6729,7 +6729,7 @@ module.exports = [
     longitude: -104.9338675,
     population: '49799',
     rank: '748',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Monroe',
@@ -6738,7 +6738,7 @@ module.exports = [
     longitude: -92.1193012,
     population: '49761',
     rank: '749',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Cerritos',
@@ -6747,7 +6747,7 @@ module.exports = [
     longitude: -118.0647871,
     population: '49707',
     rank: '750',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Downers Grove',
@@ -6756,7 +6756,7 @@ module.exports = [
     longitude: -88.01117459999999,
     population: '49670',
     rank: '751',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Coral Gables',
@@ -6765,7 +6765,7 @@ module.exports = [
     longitude: -80.2683838,
     population: '49631',
     rank: '752',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Wilson',
@@ -6774,7 +6774,7 @@ module.exports = [
     longitude: -77.9155395,
     population: '49628',
     rank: '753',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Niagara Falls',
@@ -6783,7 +6783,7 @@ module.exports = [
     longitude: -79.0377388,
     population: '49468',
     rank: '754',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Poway',
@@ -6792,7 +6792,7 @@ module.exports = [
     longitude: -117.0358646,
     population: '49417',
     rank: '755',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Edina',
@@ -6801,7 +6801,7 @@ module.exports = [
     longitude: -93.3499489,
     population: '49376',
     rank: '756',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Cuyahoga Falls',
@@ -6810,7 +6810,7 @@ module.exports = [
     longitude: -81.48455849999999,
     population: '49267',
     rank: '757',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Rancho Santa Margarita',
@@ -6819,7 +6819,7 @@ module.exports = [
     longitude: -117.603104,
     population: '49228',
     rank: '758',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Harrisburg',
@@ -6828,7 +6828,7 @@ module.exports = [
     longitude: -76.8867008,
     population: '49188',
     rank: '759',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Huntington',
@@ -6837,7 +6837,7 @@ module.exports = [
     longitude: -82.44515400000002,
     population: '49177',
     rank: '760',
-    state: 'West Virginia',
+    state: 'West Virginia'
   },
   {
     city: 'La Mirada',
@@ -6846,7 +6846,7 @@ module.exports = [
     longitude: -118.0120086,
     population: '49133',
     rank: '761',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cypress',
@@ -6855,7 +6855,7 @@ module.exports = [
     longitude: -118.0372852,
     population: '49087',
     rank: '762',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Caldwell',
@@ -6864,7 +6864,7 @@ module.exports = [
     longitude: -116.6873596,
     population: '48957',
     rank: '763',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Logan',
@@ -6873,7 +6873,7 @@ module.exports = [
     longitude: -111.8338359,
     population: '48913',
     rank: '764',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Galveston',
@@ -6882,7 +6882,7 @@ module.exports = [
     longitude: -94.7976958,
     population: '48733',
     rank: '765',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Sheboygan',
@@ -6891,7 +6891,7 @@ module.exports = [
     longitude: -87.71453,
     population: '48725',
     rank: '766',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Middletown',
@@ -6900,7 +6900,7 @@ module.exports = [
     longitude: -84.39827629999999,
     population: '48630',
     rank: '767',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Murray',
@@ -6909,7 +6909,7 @@ module.exports = [
     longitude: -111.8879909,
     population: '48612',
     rank: '768',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Roswell',
@@ -6918,7 +6918,7 @@ module.exports = [
     longitude: -104.5230242,
     population: '48611',
     rank: '769',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'Parker',
@@ -6927,7 +6927,7 @@ module.exports = [
     longitude: -104.7613633,
     population: '48608',
     rank: '770',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Bedford',
@@ -6936,7 +6936,7 @@ module.exports = [
     longitude: -97.1430671,
     population: '48592',
     rank: '771',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'East Lansing',
@@ -6945,7 +6945,7 @@ module.exports = [
     longitude: -84.48386540000001,
     population: '48554',
     rank: '772',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Methuen',
@@ -6954,7 +6954,7 @@ module.exports = [
     longitude: -71.1908924,
     population: '48514',
     rank: '773',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Covina',
@@ -6963,7 +6963,7 @@ module.exports = [
     longitude: -117.8903397,
     population: '48508',
     rank: '774',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Alexandria',
@@ -6972,7 +6972,7 @@ module.exports = [
     longitude: -92.4451371,
     population: '48426',
     rank: '775',
-    state: 'Louisiana',
+    state: 'Louisiana'
   },
   {
     city: 'Olympia',
@@ -6981,7 +6981,7 @@ module.exports = [
     longitude: -122.9006951,
     population: '48338',
     rank: '776',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Euclid',
@@ -6990,7 +6990,7 @@ module.exports = [
     longitude: -81.5267873,
     population: '48139',
     rank: '777',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Mishawaka',
@@ -6999,7 +6999,7 @@ module.exports = [
     longitude: -86.15861559999999,
     population: '47989',
     rank: '778',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Salina',
@@ -7008,7 +7008,7 @@ module.exports = [
     longitude: -97.61142369999999,
     population: '47846',
     rank: '779',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Azusa',
@@ -7017,7 +7017,7 @@ module.exports = [
     longitude: -117.9075627,
     population: '47842',
     rank: '780',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Newark',
@@ -7026,7 +7026,7 @@ module.exports = [
     longitude: -82.4012642,
     population: '47777',
     rank: '781',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Chesterfield',
@@ -7035,7 +7035,7 @@ module.exports = [
     longitude: -90.5770675,
     population: '47749',
     rank: '782',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Leesburg',
@@ -7044,7 +7044,7 @@ module.exports = [
     longitude: -77.56360149999999,
     population: '47673',
     rank: '783',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Dunwoody',
@@ -7053,7 +7053,7 @@ module.exports = [
     longitude: -84.3346473,
     population: '47591',
     rank: '784',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Hattiesburg',
@@ -7062,7 +7062,7 @@ module.exports = [
     longitude: -89.29033919999999,
     population: '47556',
     rank: '785',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Roseville',
@@ -7071,7 +7071,7 @@ module.exports = [
     longitude: -82.9371409,
     population: '47555',
     rank: '786',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Bonita Springs',
@@ -7080,7 +7080,7 @@ module.exports = [
     longitude: -81.7786972,
     population: '47547',
     rank: '787',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Portage',
@@ -7089,7 +7089,7 @@ module.exports = [
     longitude: -85.5800022,
     population: '47523',
     rank: '788',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'St. Louis Park',
@@ -7098,7 +7098,7 @@ module.exports = [
     longitude: -93.3702186,
     population: '47411',
     rank: '789',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Collierville',
@@ -7107,7 +7107,7 @@ module.exports = [
     longitude: -89.6645266,
     population: '47333',
     rank: '790',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Middletown',
@@ -7116,7 +7116,7 @@ module.exports = [
     longitude: -72.6506488,
     population: '47333',
     rank: '791',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Stillwater',
@@ -7125,7 +7125,7 @@ module.exports = [
     longitude: -97.0583681,
     population: '47186',
     rank: '792',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'East Providence',
@@ -7134,7 +7134,7 @@ module.exports = [
     longitude: -71.3700545,
     population: '47149',
     rank: '793',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Lawrence',
@@ -7143,7 +7143,7 @@ module.exports = [
     longitude: -86.0252612,
     population: '47135',
     rank: '794',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Wauwatosa',
@@ -7152,7 +7152,7 @@ module.exports = [
     longitude: -88.0075875,
     population: '47134',
     rank: '795',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Mentor',
@@ -7161,7 +7161,7 @@ module.exports = [
     longitude: -81.339552,
     population: '46979',
     rank: '796',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Ceres',
@@ -7170,7 +7170,7 @@ module.exports = [
     longitude: -120.9577098,
     population: '46714',
     rank: '797',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cedar Hill',
@@ -7179,7 +7179,7 @@ module.exports = [
     longitude: -96.9561152,
     population: '46663',
     rank: '798',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Mansfield',
@@ -7188,7 +7188,7 @@ module.exports = [
     longitude: -82.5154471,
     population: '46454',
     rank: '799',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Binghamton',
@@ -7197,7 +7197,7 @@ module.exports = [
     longitude: -75.91797380000001,
     population: '46444',
     rank: '800',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: "Coeur d'Alene",
@@ -7206,7 +7206,7 @@ module.exports = [
     longitude: -116.7804664,
     population: '46402',
     rank: '801',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'San Luis Obispo',
@@ -7215,7 +7215,7 @@ module.exports = [
     longitude: -120.6596156,
     population: '46377',
     rank: '802',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Minot',
@@ -7224,7 +7224,7 @@ module.exports = [
     longitude: -101.2922906,
     population: '46321',
     rank: '803',
-    state: 'North Dakota',
+    state: 'North Dakota'
   },
   {
     city: 'Palm Springs',
@@ -7233,7 +7233,7 @@ module.exports = [
     longitude: -116.5452921,
     population: '46281',
     rank: '804',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pine Bluff',
@@ -7242,7 +7242,7 @@ module.exports = [
     longitude: -92.00319549999999,
     population: '46094',
     rank: '805',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Texas City',
@@ -7251,7 +7251,7 @@ module.exports = [
     longitude: -94.9027002,
     population: '46081',
     rank: '806',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Summerville',
@@ -7260,7 +7260,7 @@ module.exports = [
     longitude: -80.17564809999999,
     population: '46074',
     rank: '807',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Twin Falls',
@@ -7269,7 +7269,7 @@ module.exports = [
     longitude: -114.4608711,
     population: '45981',
     rank: '808',
-    state: 'Idaho',
+    state: 'Idaho'
   },
   {
     city: 'Jeffersonville',
@@ -7278,7 +7278,7 @@ module.exports = [
     longitude: -85.7371847,
     population: '45929',
     rank: '809',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'San Jacinto',
@@ -7287,7 +7287,7 @@ module.exports = [
     longitude: -116.958635,
     population: '45851',
     rank: '810',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Madison',
@@ -7296,7 +7296,7 @@ module.exports = [
     longitude: -86.74833180000002,
     population: '45799',
     rank: '811',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Altoona',
@@ -7305,7 +7305,7 @@ module.exports = [
     longitude: -78.3947359,
     population: '45796',
     rank: '812',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Columbus',
@@ -7314,7 +7314,7 @@ module.exports = [
     longitude: -85.9213796,
     population: '45775',
     rank: '813',
-    state: 'Indiana',
+    state: 'Indiana'
   },
   {
     city: 'Beavercreek',
@@ -7323,7 +7323,7 @@ module.exports = [
     longitude: -84.06326849999999,
     population: '45712',
     rank: '814',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Apopka',
@@ -7332,7 +7332,7 @@ module.exports = [
     longitude: -81.5322149,
     population: '45587',
     rank: '815',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Elmhurst',
@@ -7341,7 +7341,7 @@ module.exports = [
     longitude: -87.9403418,
     population: '45556',
     rank: '816',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Maricopa',
@@ -7350,7 +7350,7 @@ module.exports = [
     longitude: -112.0476423,
     population: '45508',
     rank: '817',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Farmington',
@@ -7359,7 +7359,7 @@ module.exports = [
     longitude: -108.2186856,
     population: '45426',
     rank: '818',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'Glenview',
@@ -7368,7 +7368,7 @@ module.exports = [
     longitude: -87.7878408,
     population: '45417',
     rank: '819',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Cleveland Heights',
@@ -7377,7 +7377,7 @@ module.exports = [
     longitude: -81.556235,
     population: '45394',
     rank: '820',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Draper',
@@ -7386,7 +7386,7 @@ module.exports = [
     longitude: -111.8638226,
     population: '45285',
     rank: '821',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Lincoln',
@@ -7395,7 +7395,7 @@ module.exports = [
     longitude: -121.2930079,
     population: '45237',
     rank: '822',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Sierra Vista',
@@ -7404,7 +7404,7 @@ module.exports = [
     longitude: -110.2772856,
     population: '45129',
     rank: '823',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Lacey',
@@ -7413,7 +7413,7 @@ module.exports = [
     longitude: -122.8231915,
     population: '44919',
     rank: '824',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Biloxi',
@@ -7422,7 +7422,7 @@ module.exports = [
     longitude: -88.88530779999999,
     population: '44820',
     rank: '825',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Strongsville',
@@ -7431,7 +7431,7 @@ module.exports = [
     longitude: -81.83569,
     population: '44730',
     rank: '826',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Barnstable Town',
@@ -7440,7 +7440,7 @@ module.exports = [
     longitude: -70.3002024,
     population: '44641',
     rank: '827',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Wylie',
@@ -7449,7 +7449,7 @@ module.exports = [
     longitude: -96.5388789,
     population: '44575',
     rank: '828',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Sayreville',
@@ -7458,7 +7458,7 @@ module.exports = [
     longitude: -74.360846,
     population: '44412',
     rank: '829',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Kannapolis',
@@ -7467,7 +7467,7 @@ module.exports = [
     longitude: -80.6217341,
     population: '44359',
     rank: '830',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Charlottesville',
@@ -7476,7 +7476,7 @@ module.exports = [
     longitude: -78.47667810000002,
     population: '44349',
     rank: '831',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Littleton',
@@ -7485,7 +7485,7 @@ module.exports = [
     longitude: -105.0166498,
     population: '44275',
     rank: '832',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Titusville',
@@ -7494,7 +7494,7 @@ module.exports = [
     longitude: -80.8075537,
     population: '44206',
     rank: '833',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Hackensack',
@@ -7503,7 +7503,7 @@ module.exports = [
     longitude: -74.0434736,
     population: '44113',
     rank: '834',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Newark',
@@ -7512,7 +7512,7 @@ module.exports = [
     longitude: -122.0402399,
     population: '44096',
     rank: '835',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Pittsfield',
@@ -7521,7 +7521,7 @@ module.exports = [
     longitude: -73.2453824,
     population: '44057',
     rank: '836',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'York',
@@ -7530,7 +7530,7 @@ module.exports = [
     longitude: -76.727745,
     population: '43935',
     rank: '837',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Lombard',
@@ -7539,7 +7539,7 @@ module.exports = [
     longitude: -88.00784349999999,
     population: '43907',
     rank: '838',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Attleboro',
@@ -7548,7 +7548,7 @@ module.exports = [
     longitude: -71.2856082,
     population: '43886',
     rank: '839',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'DeKalb',
@@ -7557,7 +7557,7 @@ module.exports = [
     longitude: -88.75036469999999,
     population: '43849',
     rank: '840',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Blacksburg',
@@ -7566,7 +7566,7 @@ module.exports = [
     longitude: -80.4139393,
     population: '43609',
     rank: '841',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Dublin',
@@ -7575,7 +7575,7 @@ module.exports = [
     longitude: -83.1140771,
     population: '43607',
     rank: '842',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Haltom City',
@@ -7584,7 +7584,7 @@ module.exports = [
     longitude: -97.26918169999999,
     population: '43580',
     rank: '843',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Lompoc',
@@ -7593,7 +7593,7 @@ module.exports = [
     longitude: -120.4579409,
     population: '43509',
     rank: '844',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'El Centro',
@@ -7602,7 +7602,7 @@ module.exports = [
     longitude: -115.5630514,
     population: '43363',
     rank: '845',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Danville',
@@ -7611,7 +7611,7 @@ module.exports = [
     longitude: -121.9999606,
     population: '43341',
     rank: '846',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Jefferson City',
@@ -7620,7 +7620,7 @@ module.exports = [
     longitude: -92.1735164,
     population: '43330',
     rank: '847',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Cutler Bay',
@@ -7629,7 +7629,7 @@ module.exports = [
     longitude: -80.34685929999999,
     population: '43328',
     rank: '848',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Oakland Park',
@@ -7638,7 +7638,7 @@ module.exports = [
     longitude: -80.1319893,
     population: '43286',
     rank: '849',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'North Miami Beach',
@@ -7647,7 +7647,7 @@ module.exports = [
     longitude: -80.1625463,
     population: '43250',
     rank: '850',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Freeport',
@@ -7656,7 +7656,7 @@ module.exports = [
     longitude: -73.58318349999999,
     population: '43167',
     rank: '851',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Moline',
@@ -7665,7 +7665,7 @@ module.exports = [
     longitude: -90.51513419999999,
     population: '43116',
     rank: '852',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Coachella',
@@ -7674,7 +7674,7 @@ module.exports = [
     longitude: -116.173894,
     population: '43092',
     rank: '853',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Fort Pierce',
@@ -7683,7 +7683,7 @@ module.exports = [
     longitude: -80.3256056,
     population: '43074',
     rank: '854',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Smyrna',
@@ -7692,7 +7692,7 @@ module.exports = [
     longitude: -86.5186045,
     population: '43060',
     rank: '855',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Bountiful',
@@ -7701,7 +7701,7 @@ module.exports = [
     longitude: -111.880771,
     population: '43023',
     rank: '856',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Fond du Lac',
@@ -7710,7 +7710,7 @@ module.exports = [
     longitude: -88.4470508,
     population: '42970',
     rank: '857',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Everett',
@@ -7719,7 +7719,7 @@ module.exports = [
     longitude: -71.0536625,
     population: '42935',
     rank: '858',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Danville',
@@ -7728,7 +7728,7 @@ module.exports = [
     longitude: -79.39502279999999,
     population: '42907',
     rank: '859',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Keller',
@@ -7737,7 +7737,7 @@ module.exports = [
     longitude: -97.229298,
     population: '42907',
     rank: '860',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Belleville',
@@ -7746,7 +7746,7 @@ module.exports = [
     longitude: -89.9839935,
     population: '42895',
     rank: '861',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Bell Gardens',
@@ -7755,7 +7755,7 @@ module.exports = [
     longitude: -118.1514588,
     population: '42889',
     rank: '862',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cleveland',
@@ -7764,7 +7764,7 @@ module.exports = [
     longitude: -84.8766115,
     population: '42774',
     rank: '863',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'North Lauderdale',
@@ -7773,7 +7773,7 @@ module.exports = [
     longitude: -80.2258811,
     population: '42757',
     rank: '864',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Fairfield',
@@ -7782,7 +7782,7 @@ module.exports = [
     longitude: -84.5603187,
     population: '42635',
     rank: '865',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Salem',
@@ -7791,7 +7791,7 @@ module.exports = [
     longitude: -70.8967155,
     population: '42544',
     rank: '866',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Rancho Palos Verdes',
@@ -7800,7 +7800,7 @@ module.exports = [
     longitude: -118.3870173,
     population: '42448',
     rank: '867',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'San Bruno',
@@ -7809,7 +7809,7 @@ module.exports = [
     longitude: -122.4110835,
     population: '42443',
     rank: '868',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Concord',
@@ -7818,7 +7818,7 @@ module.exports = [
     longitude: -71.5375718,
     population: '42419',
     rank: '869',
-    state: 'New Hampshire',
+    state: 'New Hampshire'
   },
   {
     city: 'Burlington',
@@ -7827,7 +7827,7 @@ module.exports = [
     longitude: -73.21207199999999,
     population: '42284',
     rank: '870',
-    state: 'Vermont',
+    state: 'Vermont'
   },
   {
     city: 'Apex',
@@ -7836,7 +7836,7 @@ module.exports = [
     longitude: -78.85028559999999,
     population: '42214',
     rank: '871',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Midland',
@@ -7845,7 +7845,7 @@ module.exports = [
     longitude: -84.2472116,
     population: '42181',
     rank: '872',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Altamonte Springs',
@@ -7854,7 +7854,7 @@ module.exports = [
     longitude: -81.3656242,
     population: '42150',
     rank: '873',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Hutchinson',
@@ -7863,7 +7863,7 @@ module.exports = [
     longitude: -97.92977429999999,
     population: '41889',
     rank: '874',
-    state: 'Kansas',
+    state: 'Kansas'
   },
   {
     city: 'Buffalo Grove',
@@ -7872,7 +7872,7 @@ module.exports = [
     longitude: -87.9631308,
     population: '41778',
     rank: '875',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Urbandale',
@@ -7881,7 +7881,7 @@ module.exports = [
     longitude: -93.71216559999999,
     population: '41776',
     rank: '876',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'State College',
@@ -7890,7 +7890,7 @@ module.exports = [
     longitude: -77.8600012,
     population: '41757',
     rank: '877',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Urbana',
@@ -7899,7 +7899,7 @@ module.exports = [
     longitude: -88.2072697,
     population: '41752',
     rank: '878',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Plainfield',
@@ -7908,7 +7908,7 @@ module.exports = [
     longitude: -88.2120315,
     population: '41734',
     rank: '879',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Manassas',
@@ -7917,7 +7917,7 @@ module.exports = [
     longitude: -77.47526669999999,
     population: '41705',
     rank: '880',
-    state: 'Virginia',
+    state: 'Virginia'
   },
   {
     city: 'Bartlett',
@@ -7926,7 +7926,7 @@ module.exports = [
     longitude: -88.1856301,
     population: '41679',
     rank: '881',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Kearny',
@@ -7935,7 +7935,7 @@ module.exports = [
     longitude: -74.1454214,
     population: '41664',
     rank: '882',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Oro Valley',
@@ -7944,7 +7944,7 @@ module.exports = [
     longitude: -110.966488,
     population: '41627',
     rank: '883',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Findlay',
@@ -7953,7 +7953,7 @@ module.exports = [
     longitude: -83.6499321,
     population: '41512',
     rank: '884',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Rohnert Park',
@@ -7962,7 +7962,7 @@ module.exports = [
     longitude: -122.7010984,
     population: '41398',
     rank: '885',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Westfield',
@@ -7971,7 +7971,7 @@ module.exports = [
     longitude: -72.749538,
     population: '41301',
     rank: '887',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Linden',
@@ -7980,7 +7980,7 @@ module.exports = [
     longitude: -74.24459019999999,
     population: '41301',
     rank: '886',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Sumter',
@@ -7989,7 +7989,7 @@ module.exports = [
     longitude: -80.3414693,
     population: '41190',
     rank: '888',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Wilkes-Barre',
@@ -7998,7 +7998,7 @@ module.exports = [
     longitude: -75.88130749999999,
     population: '41108',
     rank: '889',
-    state: 'Pennsylvania',
+    state: 'Pennsylvania'
   },
   {
     city: 'Woonsocket',
@@ -8007,7 +8007,7 @@ module.exports = [
     longitude: -71.51478390000001,
     population: '41026',
     rank: '890',
-    state: 'Rhode Island',
+    state: 'Rhode Island'
   },
   {
     city: 'Leominster',
@@ -8016,7 +8016,7 @@ module.exports = [
     longitude: -71.759794,
     population: '41002',
     rank: '891',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Shelton',
@@ -8025,7 +8025,7 @@ module.exports = [
     longitude: -73.0931641,
     population: '40999',
     rank: '892',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Brea',
@@ -8034,7 +8034,7 @@ module.exports = [
     longitude: -117.9000604,
     population: '40963',
     rank: '893',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Covington',
@@ -8043,7 +8043,7 @@ module.exports = [
     longitude: -84.5085536,
     population: '40956',
     rank: '894',
-    state: 'Kentucky',
+    state: 'Kentucky'
   },
   {
     city: 'Rockwall',
@@ -8052,7 +8052,7 @@ module.exports = [
     longitude: -96.4597089,
     population: '40922',
     rank: '895',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Meridian',
@@ -8061,7 +8061,7 @@ module.exports = [
     longitude: -88.703656,
     population: '40921',
     rank: '896',
-    state: 'Mississippi',
+    state: 'Mississippi'
   },
   {
     city: 'Riverton',
@@ -8070,7 +8070,7 @@ module.exports = [
     longitude: -111.9391023,
     population: '40921',
     rank: '897',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'St. Cloud',
@@ -8079,7 +8079,7 @@ module.exports = [
     longitude: -81.2811801,
     population: '40918',
     rank: '898',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Quincy',
@@ -8088,7 +8088,7 @@ module.exports = [
     longitude: -91.4098726,
     population: '40915',
     rank: '899',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Morgan Hill',
@@ -8097,7 +8097,7 @@ module.exports = [
     longitude: -121.6543901,
     population: '40836',
     rank: '900',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Warren',
@@ -8106,7 +8106,7 @@ module.exports = [
     longitude: -80.81841659999999,
     population: '40768',
     rank: '901',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Edmonds',
@@ -8115,7 +8115,7 @@ module.exports = [
     longitude: -122.3773552,
     population: '40727',
     rank: '902',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Burleson',
@@ -8124,7 +8124,7 @@ module.exports = [
     longitude: -97.3208492,
     population: '40714',
     rank: '903',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Beverly',
@@ -8133,7 +8133,7 @@ module.exports = [
     longitude: -70.880049,
     population: '40664',
     rank: '904',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Mankato',
@@ -8142,7 +8142,7 @@ module.exports = [
     longitude: -93.99939959999999,
     population: '40641',
     rank: '905',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Hagerstown',
@@ -8151,7 +8151,7 @@ module.exports = [
     longitude: -77.71999319999999,
     population: '40612',
     rank: '906',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Prescott',
@@ -8160,7 +8160,7 @@ module.exports = [
     longitude: -112.4685025,
     population: '40590',
     rank: '907',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Campbell',
@@ -8169,7 +8169,7 @@ module.exports = [
     longitude: -121.9499568,
     population: '40584',
     rank: '908',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Cedar Falls',
@@ -8178,7 +8178,7 @@ module.exports = [
     longitude: -92.4453161,
     population: '40566',
     rank: '909',
-    state: 'Iowa',
+    state: 'Iowa'
   },
   {
     city: 'Beaumont',
@@ -8187,7 +8187,7 @@ module.exports = [
     longitude: -116.977248,
     population: '40481',
     rank: '910',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'La Puente',
@@ -8196,7 +8196,7 @@ module.exports = [
     longitude: -117.9495083,
     population: '40435',
     rank: '911',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Crystal Lake',
@@ -8205,7 +8205,7 @@ module.exports = [
     longitude: -88.31619649999999,
     population: '40388',
     rank: '912',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Fitchburg',
@@ -8214,7 +8214,7 @@ module.exports = [
     longitude: -71.8022955,
     population: '40383',
     rank: '913',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Carol Stream',
@@ -8223,7 +8223,7 @@ module.exports = [
     longitude: -88.13479269999999,
     population: '40379',
     rank: '914',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Hickory',
@@ -8232,7 +8232,7 @@ module.exports = [
     longitude: -81.3444573,
     population: '40361',
     rank: '915',
-    state: 'North Carolina',
+    state: 'North Carolina'
   },
   {
     city: 'Streamwood',
@@ -8241,7 +8241,7 @@ module.exports = [
     longitude: -88.17840849999999,
     population: '40351',
     rank: '916',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Norwich',
@@ -8250,7 +8250,7 @@ module.exports = [
     longitude: -72.07591049999999,
     population: '40347',
     rank: '917',
-    state: 'Connecticut',
+    state: 'Connecticut'
   },
   {
     city: 'Coppell',
@@ -8259,7 +8259,7 @@ module.exports = [
     longitude: -97.01500779999999,
     population: '40342',
     rank: '918',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'San Gabriel',
@@ -8268,7 +8268,7 @@ module.exports = [
     longitude: -118.1058333,
     population: '40275',
     rank: '919',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Holyoke',
@@ -8277,7 +8277,7 @@ module.exports = [
     longitude: -72.6162009,
     population: '40249',
     rank: '920',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Bentonville',
@@ -8286,7 +8286,7 @@ module.exports = [
     longitude: -94.2088172,
     population: '40167',
     rank: '921',
-    state: 'Arkansas',
+    state: 'Arkansas'
   },
   {
     city: 'Florence',
@@ -8295,7 +8295,7 @@ module.exports = [
     longitude: -87.677251,
     population: '40059',
     rank: '922',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Peachtree Corners',
@@ -8304,7 +8304,7 @@ module.exports = [
     longitude: -84.2214551,
     population: '40059',
     rank: '923',
-    state: 'Georgia',
+    state: 'Georgia'
   },
   {
     city: 'Brentwood',
@@ -8313,7 +8313,7 @@ module.exports = [
     longitude: -86.78277720000001,
     population: '40021',
     rank: '924',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'Bozeman',
@@ -8322,7 +8322,7 @@ module.exports = [
     longitude: -111.0429339,
     population: '39860',
     rank: '925',
-    state: 'Montana',
+    state: 'Montana'
   },
   {
     city: 'New Berlin',
@@ -8331,7 +8331,7 @@ module.exports = [
     longitude: -88.1084224,
     population: '39834',
     rank: '926',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Goose Creek',
@@ -8340,7 +8340,7 @@ module.exports = [
     longitude: -80.03258670000001,
     population: '39823',
     rank: '927',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Huntsville',
@@ -8349,7 +8349,7 @@ module.exports = [
     longitude: -95.55077709999999,
     population: '39795',
     rank: '928',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Prescott Valley',
@@ -8358,7 +8358,7 @@ module.exports = [
     longitude: -112.315721,
     population: '39791',
     rank: '929',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Maplewood',
@@ -8367,7 +8367,7 @@ module.exports = [
     longitude: -92.9952153,
     population: '39765',
     rank: '930',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Romeoville',
@@ -8376,7 +8376,7 @@ module.exports = [
     longitude: -88.0895061,
     population: '39650',
     rank: '931',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Duncanville',
@@ -8385,7 +8385,7 @@ module.exports = [
     longitude: -96.9083366,
     population: '39605',
     rank: '932',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Atlantic City',
@@ -8394,7 +8394,7 @@ module.exports = [
     longitude: -74.4229266,
     population: '39551',
     rank: '933',
-    state: 'New Jersey',
+    state: 'New Jersey'
   },
   {
     city: 'Clovis',
@@ -8403,7 +8403,7 @@ module.exports = [
     longitude: -103.2052272,
     population: '39508',
     rank: '934',
-    state: 'New Mexico',
+    state: 'New Mexico'
   },
   {
     city: 'The Colony',
@@ -8412,7 +8412,7 @@ module.exports = [
     longitude: -96.89283089999999,
     population: '39458',
     rank: '935',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Culver City',
@@ -8421,7 +8421,7 @@ module.exports = [
     longitude: -118.3964665,
     population: '39428',
     rank: '936',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Marlborough',
@@ -8430,7 +8430,7 @@ module.exports = [
     longitude: -71.5522874,
     population: '39414',
     rank: '937',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Hilton Head Island',
@@ -8439,7 +8439,7 @@ module.exports = [
     longitude: -80.752608,
     population: '39412',
     rank: '938',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Moorhead',
@@ -8448,7 +8448,7 @@ module.exports = [
     longitude: -96.76780389999999,
     population: '39398',
     rank: '939',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Calexico',
@@ -8457,7 +8457,7 @@ module.exports = [
     longitude: -115.4988834,
     population: '39389',
     rank: '940',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Bullhead City',
@@ -8466,7 +8466,7 @@ module.exports = [
     longitude: -114.5285981,
     population: '39383',
     rank: '941',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Germantown',
@@ -8475,7 +8475,7 @@ module.exports = [
     longitude: -89.8100858,
     population: '39375',
     rank: '942',
-    state: 'Tennessee',
+    state: 'Tennessee'
   },
   {
     city: 'La Quinta',
@@ -8484,7 +8484,7 @@ module.exports = [
     longitude: -116.3100095,
     population: '39331',
     rank: '943',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Lancaster',
@@ -8493,7 +8493,7 @@ module.exports = [
     longitude: -82.5993294,
     population: '39325',
     rank: '944',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Wausau',
@@ -8502,7 +8502,7 @@ module.exports = [
     longitude: -89.6301221,
     population: '39309',
     rank: '945',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Sherman',
@@ -8511,7 +8511,7 @@ module.exports = [
     longitude: -96.6088805,
     population: '39296',
     rank: '946',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Ocoee',
@@ -8520,7 +8520,7 @@ module.exports = [
     longitude: -81.5439619,
     population: '39172',
     rank: '947',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Shakopee',
@@ -8529,7 +8529,7 @@ module.exports = [
     longitude: -93.5272861,
     population: '39167',
     rank: '948',
-    state: 'Minnesota',
+    state: 'Minnesota'
   },
   {
     city: 'Woburn',
@@ -8538,7 +8538,7 @@ module.exports = [
     longitude: -71.1522765,
     population: '39083',
     rank: '949',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Bremerton',
@@ -8547,7 +8547,7 @@ module.exports = [
     longitude: -122.6329356,
     population: '39056',
     rank: '950',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Rock Island',
@@ -8556,7 +8556,7 @@ module.exports = [
     longitude: -90.5787476,
     population: '38877',
     rank: '951',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Muskogee',
@@ -8565,7 +8565,7 @@ module.exports = [
     longitude: -95.3696909,
     population: '38863',
     rank: '952',
-    state: 'Oklahoma',
+    state: 'Oklahoma'
   },
   {
     city: 'Cape Girardeau',
@@ -8574,7 +8574,7 @@ module.exports = [
     longitude: -89.51814759999999,
     population: '38816',
     rank: '953',
-    state: 'Missouri',
+    state: 'Missouri'
   },
   {
     city: 'Annapolis',
@@ -8583,7 +8583,7 @@ module.exports = [
     longitude: -76.4921829,
     population: '38722',
     rank: '954',
-    state: 'Maryland',
+    state: 'Maryland'
   },
   {
     city: 'Greenacres',
@@ -8592,7 +8592,7 @@ module.exports = [
     longitude: -80.1353896,
     population: '38696',
     rank: '955',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Ormond Beach',
@@ -8601,7 +8601,7 @@ module.exports = [
     longitude: -81.0558894,
     population: '38661',
     rank: '956',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Hallandale Beach',
@@ -8610,7 +8610,7 @@ module.exports = [
     longitude: -80.14837899999999,
     population: '38632',
     rank: '957',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Stanton',
@@ -8619,7 +8619,7 @@ module.exports = [
     longitude: -117.9931165,
     population: '38623',
     rank: '958',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Puyallup',
@@ -8628,7 +8628,7 @@ module.exports = [
     longitude: -122.2928974,
     population: '38609',
     rank: '959',
-    state: 'Washington',
+    state: 'Washington'
   },
   {
     city: 'Pacifica',
@@ -8637,7 +8637,7 @@ module.exports = [
     longitude: -122.4869194,
     population: '38606',
     rank: '960',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Hanover Park',
@@ -8646,7 +8646,7 @@ module.exports = [
     longitude: -88.1450735,
     population: '38510',
     rank: '961',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Hurst',
@@ -8655,7 +8655,7 @@ module.exports = [
     longitude: -97.1705678,
     population: '38448',
     rank: '962',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Lima',
@@ -8664,7 +8664,7 @@ module.exports = [
     longitude: -84.1052256,
     population: '38355',
     rank: '963',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Marana',
@@ -8673,7 +8673,7 @@ module.exports = [
     longitude: -111.2224422,
     population: '38290',
     rank: '964',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Carpentersville',
@@ -8682,7 +8682,7 @@ module.exports = [
     longitude: -88.2578582,
     population: '38241',
     rank: '965',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Oakley',
@@ -8691,7 +8691,7 @@ module.exports = [
     longitude: -121.7124536,
     population: '38194',
     rank: '966',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Huber Heights',
@@ -8700,7 +8700,7 @@ module.exports = [
     longitude: -84.12466080000002,
     population: '38142',
     rank: '967',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Lancaster',
@@ -8709,7 +8709,7 @@ module.exports = [
     longitude: -96.7561082,
     population: '38071',
     rank: '968',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Montclair',
@@ -8718,7 +8718,7 @@ module.exports = [
     longitude: -117.6897776,
     population: '38027',
     rank: '969',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Wheeling',
@@ -8727,7 +8727,7 @@ module.exports = [
     longitude: -87.9289591,
     population: '38015',
     rank: '970',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Brookfield',
@@ -8736,7 +8736,7 @@ module.exports = [
     longitude: -88.1064787,
     population: '37999',
     rank: '971',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Park Ridge',
@@ -8745,7 +8745,7 @@ module.exports = [
     longitude: -87.84061919999999,
     population: '37839',
     rank: '972',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Florence',
@@ -8754,7 +8754,7 @@ module.exports = [
     longitude: -79.7625625,
     population: '37792',
     rank: '973',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Roy',
@@ -8763,7 +8763,7 @@ module.exports = [
     longitude: -112.0263313,
     population: '37733',
     rank: '974',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Winter Garden',
@@ -8772,7 +8772,7 @@ module.exports = [
     longitude: -81.58618469999999,
     population: '37711',
     rank: '975',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Chelsea',
@@ -8781,7 +8781,7 @@ module.exports = [
     longitude: -71.0328284,
     population: '37670',
     rank: '976',
-    state: 'Massachusetts',
+    state: 'Massachusetts'
   },
   {
     city: 'Valley Stream',
@@ -8790,7 +8790,7 @@ module.exports = [
     longitude: -73.70846449999999,
     population: '37659',
     rank: '977',
-    state: 'New York',
+    state: 'New York'
   },
   {
     city: 'Spartanburg',
@@ -8799,7 +8799,7 @@ module.exports = [
     longitude: -81.9320482,
     population: '37647',
     rank: '978',
-    state: 'South Carolina',
+    state: 'South Carolina'
   },
   {
     city: 'Lake Oswego',
@@ -8808,7 +8808,7 @@ module.exports = [
     longitude: -122.6706498,
     population: '37610',
     rank: '979',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Friendswood',
@@ -8817,7 +8817,7 @@ module.exports = [
     longitude: -95.2010447,
     population: '37587',
     rank: '980',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Westerville',
@@ -8826,7 +8826,7 @@ module.exports = [
     longitude: -82.92906959999999,
     population: '37530',
     rank: '981',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Northglenn',
@@ -8835,7 +8835,7 @@ module.exports = [
     longitude: -104.9811468,
     population: '37499',
     rank: '982',
-    state: 'Colorado',
+    state: 'Colorado'
   },
   {
     city: 'Phenix City',
@@ -8844,7 +8844,7 @@ module.exports = [
     longitude: -85.0007653,
     population: '37498',
     rank: '983',
-    state: 'Alabama',
+    state: 'Alabama'
   },
   {
     city: 'Grove City',
@@ -8853,7 +8853,7 @@ module.exports = [
     longitude: -83.0929644,
     population: '37490',
     rank: '984',
-    state: 'Ohio',
+    state: 'Ohio'
   },
   {
     city: 'Texarkana',
@@ -8862,7 +8862,7 @@ module.exports = [
     longitude: -94.04768820000001,
     population: '37442',
     rank: '985',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Addison',
@@ -8871,7 +8871,7 @@ module.exports = [
     longitude: -87.9889556,
     population: '37385',
     rank: '986',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Dover',
@@ -8880,7 +8880,7 @@ module.exports = [
     longitude: -75.5243682,
     population: '37366',
     rank: '987',
-    state: 'Delaware',
+    state: 'Delaware'
   },
   {
     city: 'Lincoln Park',
@@ -8889,7 +8889,7 @@ module.exports = [
     longitude: -83.1785361,
     population: '37313',
     rank: '988',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Calumet City',
@@ -8898,7 +8898,7 @@ module.exports = [
     longitude: -87.5294871,
     population: '37240',
     rank: '989',
-    state: 'Illinois',
+    state: 'Illinois'
   },
   {
     city: 'Muskegon',
@@ -8907,7 +8907,7 @@ module.exports = [
     longitude: -86.24839209999999,
     population: '37213',
     rank: '990',
-    state: 'Michigan',
+    state: 'Michigan'
   },
   {
     city: 'Aventura',
@@ -8916,7 +8916,7 @@ module.exports = [
     longitude: -80.1392121,
     population: '37199',
     rank: '991',
-    state: 'Florida',
+    state: 'Florida'
   },
   {
     city: 'Martinez',
@@ -8925,7 +8925,7 @@ module.exports = [
     longitude: -122.1341321,
     population: '37165',
     rank: '992',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Greenfield',
@@ -8934,7 +8934,7 @@ module.exports = [
     longitude: -88.0125865,
     population: '37159',
     rank: '993',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Apache Junction',
@@ -8943,7 +8943,7 @@ module.exports = [
     longitude: -111.5495777,
     population: '37130',
     rank: '994',
-    state: 'Arizona',
+    state: 'Arizona'
   },
   {
     city: 'Monrovia',
@@ -8952,7 +8952,7 @@ module.exports = [
     longitude: -118.0019482,
     population: '37101',
     rank: '995',
-    state: 'California',
+    state: 'California'
   },
   {
     city: 'Weslaco',
@@ -8961,7 +8961,7 @@ module.exports = [
     longitude: -97.9908366,
     population: '37093',
     rank: '996',
-    state: 'Texas',
+    state: 'Texas'
   },
   {
     city: 'Keizer',
@@ -8970,7 +8970,7 @@ module.exports = [
     longitude: -123.0262077,
     population: '37064',
     rank: '997',
-    state: 'Oregon',
+    state: 'Oregon'
   },
   {
     city: 'Spanish Fork',
@@ -8979,7 +8979,7 @@ module.exports = [
     longitude: -111.654923,
     population: '36956',
     rank: '998',
-    state: 'Utah',
+    state: 'Utah'
   },
   {
     city: 'Beloit',
@@ -8988,7 +8988,7 @@ module.exports = [
     longitude: -89.03177649999999,
     population: '36888',
     rank: '999',
-    state: 'Wisconsin',
+    state: 'Wisconsin'
   },
   {
     city: 'Panama City',
@@ -8997,6 +8997,6 @@ module.exports = [
     longitude: -85.6602058,
     population: '36877',
     rank: '1000',
-    state: 'Florida',
-  },
+    state: 'Florida'
+  }
 ];
